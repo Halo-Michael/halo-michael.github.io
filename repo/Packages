@@ -1,0 +1,130 @@
+Package: com.michael.TimeMachine
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.bingner.snappy|io.okanon.snaputil, firmware (>= 10.3), firmware (<= 12.1.2)
+Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Filename: ./debs/com.michael.TimeMachine-0.1.1.deb
+Size: 3054
+MD5sum: 6b6c4b78448ef1703965c0efb28dfce3
+SHA1: 431b4df7d45cf4bb8a5b21c051d62b0775d0e58f
+SHA256: be10c9335e402379c90af6b9bc5869c086d2dc6fdcbf9fb1b337780981b10589
+Section: Tweaks
+Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than 7 snapshots.
+ TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than 7 snapshots.
+ .
+ ⚠️TimeMachine on iOS will rename your orig snapshot's name from orig-fs to com.apple.TimeMachine.orig-fs,because when you use a snapshot to recovery,jailbreak will rename this snapshot to orig-fs again;it will remove your truly orig rootfs snapshot;however,you can still delete this tweak to rename your truly rootfs snapshot from com.apple.TimeMachine.orig-fs to orig-fs again.After that,you may not able to use 3rd-recovery tools like Rollectra to recovery your rootfs.
+ You can use this command:
+ snappy -f / -r [the snapshot's name that you want to recovery] -x ⚠️or⚠️ snapUtil -n [the snapshot's name that you want to recovery] com.apple.os.update-`guid` /
+ like: snappy -f / -r com.apple.TimeMachine.orig-fs -x ⚠️or⚠️ snapUtil -n com.apple.TimeMachine.orig-fs com.apple.os.update-`guid` /
+ to recovery your rootfs to the time that you have created the snapshot;com.apple.TimeMachine.orig-fs is your orig rootfs snapshot.
+ You can use this command:
+ snappy -f /(or /private/var) -l ⚠️or⚠️ snapUtil -l /(or /private/var)
+ to list your snapshot on /(or /private/var)
+ .
+ After remove TimeMachine on iOS
+ You should use this command:
+ snappy -f /(or /private/var) -d [snapshot's name] ⚠️or⚠️ snapUtil -d [snapshot's name] /(or /private/var)
+ to remove the snapshot that TimeMachine have created by yourself.
+ ⚠️DO NOT REMOVE THE SNAPSHOT NAMED "electra-prejailbreak" OR "orig-fs" ; THEY ARE YOUR ORIG SNAPSHOT!
+Author: halo_michael <yc992147156@me.com>
+Name: TimeMachine on iOS
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.TimeMachineLite
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.bingner.snappy|io.okanon.snaputil, firmware (>= 10.3), firmware (<= 12.1.2)
+Conflicts: com.michael.TimeMachine, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Replaces: com.michael.TimeMachine, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Provides: com.michael.TimeMachine, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Filename: ./debs/com.michael.TimeMachineLite-0.1.1.deb
+Size: 2964
+MD5sum: fcc757692f2b597e4b613cfd6cc8851e
+SHA1: 5a1cd3719a2c72abbe46f2b5c6709fbed56486d8
+SHA256: 6bb61729dd8911a632f08a2c566d8df415bf4c1fcf6afc5a2a14f640dc5a57fb
+Section: Tweaks
+Description: TimeMachine on iOS will creat a rootfs snapshot at 2:00AM everyday;and delete the oldest snapshot when you have more than 7 snapshots.
+ TimeMachine on iOS will creat a rootfs snapshot at 2:00AM everyday;and delete the oldest snapshot when you have more than 7 snapshots.
+ .
+ ⚠️TimeMachine on iOS will rename your orig snapshot's name from orig-fs to com.apple.TimeMachine.orig-fs,because when you use a snapshot to recovery,jailbreak will rename this snapshot to orig-fs again;it will remove your truly orig rootfs snapshot;however,you can still delete this tweak to rename your truly rootfs snapshot from com.apple.TimeMachine.orig-fs to orig-fs again.After that,you may not able to use 3rd-recovery tools like Rollectra to recovery your rootfs.
+ You can use this command:
+ snappy -f / -r [the snapshot's name that you want to recovery] -x ⚠️or⚠️ snapUtil -n [the snapshot's name that you want to recovery] com.apple.os.update-`guid` /
+ like: snappy -f / -r com.apple.TimeMachine.orig-fs -x ⚠️or⚠️ snapUtil -n com.apple.TimeMachine.orig-fs com.apple.os.update-`guid` /
+ to recovery your rootfs to the time that you have created the snapshot;com.apple.TimeMachine.orig-fs is your orig rootfs snapshot.
+ You can use this command:
+ snappy -f / -l ⚠️or⚠️ snapUtil -l /
+ to list your snapshot on /
+ .
+ After remove TimeMachine on iOS
+ You should use this command:
+ snappy -f / -d [snapshot's name] ⚠️or⚠️ snapUtil -d [snapshot's name] /
+ to remove the snapshot that TimeMachine have created by yourself.
+ ⚠️DO NOT REMOVE THE SNAPSHOT NAMED "electra-prejailbreak" OR "orig-fs" ; THEY ARE YOUR ORIG SNAPSHOT!
+Author: halo_michael <yc992147156@me.com>
+Name: TimeMachine on iOS Lite
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.appleturboboost
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), com.bingner.plutil
+Filename: ./debs/com.michael.appleturboboost_0.1.1_iphoneos-arm.deb
+Size: 1544
+MD5sum: 40d00499da1f51821d9a6b9f2e7226fe
+SHA1: 4e73d5c33765bba1c6c667cea22c42d7ee096215
+SHA256: 259ba639a48928e27f9e4dfe45a42580b829f1f93f3769fccbd61be4e5febff9
+Section: Tweaks
+Description: Turbo Boost Your Apple!
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: com.michael.fixldrestart
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: coreutils-bin, uikittools
+Filename: ./debs/com.michael.fixldrestart_0.0.2_iphoneos-arm.deb
+Size: 886
+MD5sum: 87a2731f10f6b81274525465736cf85b
+SHA1: c68987d708cf97cc4391ee98a3f26f6fd4f17950
+SHA256: 7023acba58b8fac8fd393043591228f0cb6490c6ed3996e0c9919b37aca0d41a
+Section: Tweaks
+Description: Fix ldrestart on unc0ver with sandbox apps
+Author: halo_michael <yc992147156@me.com>
+Name: FixLdrestart(Unc0ver)
+
+Package: me.nepeta.chinaselector
+Version: 0.1.1.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.selector, com.hk.selector.cn
+Filename: ./debs/me.nepeta.chinaselector_0.1.1.1_iphoneos-arm.deb
+Size: 43748
+MD5sum: 2b5558762df268cff4c7a7dcc3df7336
+SHA1: beeeab8c9ecb4b593f7a02513ac70f213c154243
+SHA256: 9fd8cba3056433a7213e5811a13c1194b7bcc2e1dd8c54e8b37d2aa89a40e4e6
+Section: Tweaks
+Description: Select text to search or translate, and build for Chinese People.
+Author: Nepeta
+Name: Selector
+
+Package: neofetch
+Version: 5.0.1
+Architecture: all
+Maintainer: Dawid Dziurla <dawidd0811@gmail.com>
+Filename: ./debs/neofetch_5.0.1.deb
+Size: 74724
+MD5sum: 1a5c41b4aeaa80355f3dc152a94774b6
+SHA1: 5a256e644676ab5cd6c448a75599bc1408072609
+SHA256: 17a1b1506f9f5c9fde8c6cc96cae94c9311fe8e8e5092ab48188a74958f1ce55
+Section: utils
+Priority: optional
+Homepage: https://github.com/dylanaraps/neofetch
+Description: CLI script to show your system's info
+

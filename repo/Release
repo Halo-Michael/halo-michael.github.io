@@ -1,0 +1,8 @@
+Origin: Halo_Michael's Cydia Repo
+Label: Halo_Michael’s Cydia Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Halo_Michael’s Cydia Repo
+
