@@ -244,33 +244,16 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: GlobalizeFix
 
 Package: com.michael.handprint
-Version: 0.4.0-1
+Version: 0.5.4-1
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Installed-Size: 72
-Depends: firmware (>= 12.0), firmware (<= 12.4), mobilesubstrate
-Conflicts: netskao.2436fix
-Filename: ./debs/com.michael.handprint_0.4.0_iphoneos-arm.deb
-Size: 4114
-MD5sum: fa2152ce328b58524bcd7c874cf04e1f
-SHA1: 976cfb07e5b3e56bc90e6f851c7a76a15ed388d5
-SHA256: 683f7ef735fb6a64017097dd36ea50719b497755fd784657c132b4bfbefbd6f1
-Section: Tweaks
-Description: Enable native X gesture for your iPhone!
-Author: Halo_Michael <yc992147156@me.com>
-Name: HandPrint
-
-Package: com.michael.handprint
-Version: 0.5.3-1
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Installed-Size: 176
+Installed-Size: 272
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.michael.handprint_0.5.3-1_iphoneos-arm.deb
-Size: 3892
-MD5sum: 142d18b76893d26b4d1423fa17aa8a4f
-SHA1: cb0881b1c62465f33f9c9ad1ded0a7c48cedcbce
-SHA256: 2f1acd1efafebbe38f0ebc1c8dbef747e1e2bde5aecea4bbc377d76076ae316f
+Filename: ./debs/com.michael.handprint_0.5.4-1_iphoneos-arm.deb
+Size: 7156
+MD5sum: a3ae5ba2374d3948bd4d09189502f706
+SHA1: 90977ae5bc059f27938ceb59fc203665901c10df
+SHA256: c4574edcf12215457f3fcc07aad5006eb72fce3dea0668b986d56e90a75ea792
 Section: Tweaks
 Description: Enable native X gesture for your iPhone!
 Author: Halo_Michael <yc992147156@me.com>
