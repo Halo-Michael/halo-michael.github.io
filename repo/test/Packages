@@ -1,17 +1,41 @@
+Package: com.chpwn.iconsupport
+Version: 1.12.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.muirey03.iconsupportfix
+Replaces: com.muirey03.iconsupportfix
+Provides: com.muirey03.iconsupportfix
+Filename: ./debs/com.chpwn.iconsupport_1.12.0_iphoneos-arm.deb
+Size: 35898
+MD5sum: 5c74beccff1d525c473cf0654e45f393
+SHA1: 76443a2c386c2d5a5e5b528f7f35417d815a4b39
+SHA256: 9e3d2f2b4e2af81f96fbfa6293c405f35c0e05ebb686b9f9feac423a3a6c4c76
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Description: Support library for safe icon tweaks.
+Tag: role::developer, purpose::extension, compatible::ios13
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Dev: ashikase
+Name: IconSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.michael.impactor
 Version: 0.9.43
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Depends: firmware (>= 7.1), firmware (<= 10.3.3)
+Depends: coreutils-bin, firmware (>= 7.1), firmware (<= 10.3.3)
+Conflicts: com.saurik.impactor
 Breaks: com.saurik.patych (<< 1.0.1)
 Filename: ./debs/com.michael.impactor_0.9.43_iphoneos-arm.deb
-Size: 519462
-MD5sum: 695bfcc91c2434041ebda83f8e120cc8
-SHA1: ad4d0f9fdb5b5dbf9c0f06e2caf9bda20afc3426
-SHA256: 1ce6ef1e457dbee3011a064545727c5b0fd790b3ddbbd45cad50669b6f1b162f
+Size: 519340
+MD5sum: fb60c88258f06d54d9f568e0249e4432
+SHA1: 890ea597dc65405be0e24e204c834908a51d629b
+SHA256: 3acdcc90c84796410181cbac7642021ec13f0ed205552c222b19af9e58cfdc64
 Section: Utilities
 Priority: optional
-Description: specific utility to unjailbreak most devices, support include iOS10.3-iOS10.3.3.
+Description: specific utility to unjailbreak most devices
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
