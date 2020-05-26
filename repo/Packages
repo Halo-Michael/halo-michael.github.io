@@ -259,6 +259,22 @@ Description: Enable native X gesture for your iPhone!
 Author: Halo_Michael <yc992147156@me.com>
 Name: HandPrint
 
+Package: com.michael.httpserver
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: bash, coreutils, python3
+Filename: ./debs/com.michael.httpserver.deb
+Size: 3448
+MD5sum: 5e5008e94653d19c4471810cfb0be221
+SHA1: 99dd22122f5499bd0ebde7ed16977e49a2b827b9
+SHA256: a0627cc6e9e2c46a287f3c7a6785a6d66d4633bde03f99da76654bf78eaabf28
+Section: Utilities
+Description: Command line tool to enable local http server, depends python3.
+Author: halo_michael <yc992147156@me.com>
+Name: httpserver-cmd
+Sponsor: halo_michael <yc992147156@me.com>
+
 Package: com.michael.iostoolchain
 Version: 1.1.0
 Architecture: iphoneos-arm
