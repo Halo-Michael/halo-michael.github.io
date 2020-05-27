@@ -381,40 +381,17 @@ Depiction: https://halo-michael.github.io/repo/info/neofetch
 Name: Neofetch Installer
 
 Package: com.michael.networkfixer
-Version: 1.1.1-1
+Version: 1.2.1-1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Installed-Size: 132
 Depends: firmware (>= 11.0)
 Conflicts: com.laoyur.network-fixer, com.rockqj.networkfixer
-Filename: ./debs/com.michael.networkfixer_1.1.1-1_iphoneos-arm.deb
-Size: 4766
-MD5sum: 5177eb65cf04bb6ff89304fae778a8a2
-SHA1: 662f9a103a2355641504a2520de006b9a7be68e4
-SHA256: 0fe1f069c870580da1e7edfb02106de60eaa8acf8e6da0bd9c6c88d40bef93d2
-Section: System
-Description: Fix app network error for China models.
- Fix app network error for China models.
- A simple executable to fix app network error for China models.
- Support iOS11 to iOS13
- How to use:
- /usr/bin/networkfixer com.example.bundleid
-Tag: role::hacker
-Author: halo_michael <yc992147156@me.com>
-Name: networkfixer
-
-Package: com.michael.networkfixer
-Version: 1.2.0-1
-Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Installed-Size: 132
-Depends: firmware (>= 11.0)
-Conflicts: com.laoyur.network-fixer, com.rockqj.networkfixer
-Filename: ./debs/com.michael.networkfixer_1.2.0-1_iphoneos-arm.deb
-Size: 4976
-MD5sum: 24fc2343f5cf10c2ead7e4327ea8b4f1
-SHA1: 03fe89c0ae649870d4590ff535a25691ca81671b
-SHA256: da3fa5073456556435038308aaeb32e76849d24c142269f5e224ded0cfbe4589
+Filename: ./debs/com.michael.networkfixer_1.2.1-1_iphoneos-arm.deb
+Size: 4964
+MD5sum: 5499b0f7406787004935fa5663098fba
+SHA1: 64b4fc440b0f1e7dc511488dbe5c2552b17f7854
+SHA256: 78dfe67e53449f5a564c0b26e1421899a18bd61e3d453cae1dc26b84231e5fc9
 Section: System
 Description: Fix app network error for China models.
 Tag: role::hacker
