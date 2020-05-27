@@ -260,15 +260,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: HandPrint
 
 Package: com.michael.httpserver
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: bash, coreutils, python3
-Filename: ./debs/com.michael.httpserver.deb
-Size: 3448
-MD5sum: 5e5008e94653d19c4471810cfb0be221
-SHA1: 99dd22122f5499bd0ebde7ed16977e49a2b827b9
-SHA256: a0627cc6e9e2c46a287f3c7a6785a6d66d4633bde03f99da76654bf78eaabf28
+Filename: ./debs/com.michael.httpserver_0.1.1_iphoneos-arm.deb
+Size: 3452
+MD5sum: 97a87ef70577243c5a15951d4e618a9b
+SHA1: 069db67790e8d3825900a7ce056443cbe5404bc5
+SHA256: 73771ab3d63b2513373908b3ce20f39177cab14a69f8fbb87f27260d2be77d22
 Section: Utilities
 Description: Command line tool to enable local http server, depends python3.
 Author: halo_michael <yc992147156@me.com>
