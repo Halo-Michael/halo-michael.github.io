@@ -55,15 +55,15 @@ Name: TimeMachine on iOS
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.apfs-deletefs
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: coreutils, firmware (>= 10.3)
-Filename: ./debs/com.michael.apfs-deletefs_0.1.4_iphoneos-arm.deb
-Size: 4720
-MD5sum: ff9f32946b1a3621739f22dbb71fb804
-SHA1: 7063317e18b06e4f22cf8bf6c5ed5ecc20c84d38
-SHA256: 6004df3537fde17bcba7a825282500c4415bf0d30fc206d833864d3d5d385b7e
+Filename: ./debs/com.michael.apfs-deletefs_0.2.0_iphoneos-arm.deb
+Size: 4464
+MD5sum: 1a24c9a4f98f5619c29c61369b51478f
+SHA1: ded1b6f7383af18161a61aebf51f380c68b3e6e2
+SHA256: f3038ee353cb442a9065941cf7c78062bb09ac5a5b50afbc0311405780cadd54
 Section: System
 Description: A command line tool for deleting apfs partition on iOS/iPadOS.
 Author: halo_michael <yc992147156@me.com>
