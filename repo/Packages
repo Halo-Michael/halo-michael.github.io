@@ -72,16 +72,16 @@ Name: APFS Deletefs
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.appleilluminator
-Version: 0.6.0
+Version: 0.6.2
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 11.0)
 Conflicts: com.michael.appleturboboost
-Filename: ./debs/com.michael.appleilluminator_0.6.0_iphoneos-arm.deb
-Size: 6544
-MD5sum: 01e04187481cd70458e275cfa558b467
-SHA1: 612f1dce43449c881cc7516b177febca581cc594
-SHA256: 48f9f5b4285663b4d12fcd54f50980e4aa995d3b182b8be077d04daa343a5c54
+Filename: ./debs/com.michael.appleilluminator_0.6.2_iphoneos-arm.deb
+Size: 6732
+MD5sum: 2b374c831dc4a5d4f7852c8c90c3c789
+SHA1: 794cf20b2951967fa6cd4d134bbe0de278ff8ded
+SHA256: 983fa835249a5982bc03763fa534fce7bd3bdc2c53f2d3a56e662b3955f81cd3
 Section: System
 Description: Illuminate your Apple!
  Illuminate your Apple!
@@ -91,16 +91,16 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Illuminator
 
 Package: com.michael.appleturboboost
-Version: 0.6.0
+Version: 0.6.2
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.0_iphoneos-arm.deb
-Size: 8936
-MD5sum: b4e3c869662b2e776728326aa7e289c5
-SHA1: a19390d6a4e9b525f8a629b9da7c5ecaf0163357
-SHA256: 8c4808217ebbbadae3e081fece27ce0311a54f46d169002031181fd53ee93720
+Filename: ./debs/com.michael.appleturboboost_0.6.2_iphoneos-arm.deb
+Size: 9104
+MD5sum: 5d53ada8801dacdf946242133aa6c813
+SHA1: a1ec1cf9b98402b4fae678d7ebc00a6e6643dafc
+SHA256: 43ba4f5801ddaac01395baa80ca92e92e9f295e4630a4202e7ca63743b5475c2
 Section: System
 Description: Turbo Boost Your Apple!
  Turbo Boost Your Apple!
@@ -350,18 +350,18 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.localssh
-Version: 0.2.1
+Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 11.0), openssh, sed
 Conflicts: com.midnightchips.localhostssh
 Replaces: com.midnightchips.localhostssh
 Provides: com.midnightchips.localhostssh
-Filename: ./debs/com.michael.localssh_0.2.1_iphoneos-arm.deb
-Size: 5324
-MD5sum: fae272b3b3823d5f764198689dfc76e9
-SHA1: 5b0de4d9e2a9f3b18732fe09de72d6c1b6ebb4a6
-SHA256: 9896134cf640d9c830de9fc323faed8ae5290a13e6bee0f3ae604390c07b3dcb
+Filename: ./debs/com.michael.localssh_0.2.2_iphoneos-arm.deb
+Size: 5520
+MD5sum: a02bd86b0662455740757330757a81d8
+SHA1: 53a2e0d38806f7bca0c86c9e6d034edbec960b21
+SHA256: 7816aaeba62c547106efdf5d61478d9ccc7f4750ca30b6b62c85bfcb00f42035
 Section: Tweaks
 Description: Enable port 2222 for OpenSSH.
  Support Checkra1n, Chimera, Electra and Unc0ver.
