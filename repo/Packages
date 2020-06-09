@@ -575,17 +575,17 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: WeNetJailbreakHook
 
 Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.9.3-679-g3f6887a37
+Version: 0v1.9.3-1015-gba06c87a7
 Architecture: iphoneos-arm
 Maintainer: Henrik Rydgård
 Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.9.3-679-g3f6887a37_iphoneos-arm.deb
-Size: 14626680
-MD5sum: 02f0182c4f638e59b2567ae5597b065c
-SHA1: b72ef257c7102f597a5f1c6bad488854a48cabed
-SHA256: 219c7fbaa832fb4d06f3474d53ffb5b5e0db89a44fb391d746a3692da5572af9
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.9.3-1015-gba06c87a7_iphoneos-arm.deb
+Size: 14703988
+MD5sum: 07fda03b02a8de73b472c7147157286e
+SHA1: e02ce8848c18272d20be5fff23f7b95708477640
+SHA256: 630050d38a6e7b0a53437369156f31cc84472e69332877d74f5684e24db1b4b3
 Section: Games
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
