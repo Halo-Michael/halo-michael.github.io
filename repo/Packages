@@ -404,6 +404,22 @@ Author: halo_michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/networkfixer
 Name: networkfixer
 
+Package: com.michael.qqunlimitedflashphotos
+Version: 0.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.michael.qqunlimitedflashphotos_0.1.0-1_iphoneos-arm.deb
+Size: 2084
+MD5sum: be5f7d91b4148ff61f3653be41d82ff6
+SHA1: 8f4dd00936f4127a545671860e14831773e64178
+SHA256: babbcafd8a7bd8394d05f3e5466b090d5bf000bc428bd3386e8cddfab8a078ab
+Section: Tweaks
+Description: Remove QQ flash photos restrictions.
+Author: Halo_Michael <yc992147156@me.com>
+Name: QQUnlimitedFlashPhotos
+
 Package: com.michael.resolutionautosetter
 Version: 0.4.0
 Architecture: iphoneos-arm
