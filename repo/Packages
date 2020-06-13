@@ -72,16 +72,16 @@ Name: APFS Deletefs
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.appleilluminator
-Version: 0.6.2
+Version: 0.6.4
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 11.0)
 Conflicts: com.michael.appleturboboost
-Filename: ./debs/com.michael.appleilluminator_0.6.2_iphoneos-arm.deb
-Size: 6732
-MD5sum: 2b374c831dc4a5d4f7852c8c90c3c789
-SHA1: 794cf20b2951967fa6cd4d134bbe0de278ff8ded
-SHA256: 983fa835249a5982bc03763fa534fce7bd3bdc2c53f2d3a56e662b3955f81cd3
+Filename: ./debs/com.michael.appleilluminator_0.6.4_iphoneos-arm.deb
+Size: 7668
+MD5sum: 4e20f9f659bd992c48aef60b884aaa58
+SHA1: a8706cee40aeb481ffc5f40459bc7f69c289aabb
+SHA256: 461318f72e537af2a828a6f412675a539a9dd8302988ea4faa719534dc7b1d01
 Section: System
 Description: Illuminate your Apple!
  Illuminate your Apple!
@@ -91,16 +91,16 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Illuminator
 
 Package: com.michael.appleturboboost
-Version: 0.6.2
+Version: 0.6.4
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.2_iphoneos-arm.deb
-Size: 9104
-MD5sum: 5d53ada8801dacdf946242133aa6c813
-SHA1: a1ec1cf9b98402b4fae678d7ebc00a6e6643dafc
-SHA256: 43ba4f5801ddaac01395baa80ca92e92e9f295e4630a4202e7ca63743b5475c2
+Filename: ./debs/com.michael.appleturboboost_0.6.4_iphoneos-arm.deb
+Size: 10104
+MD5sum: 72c011a0b334b711f014b481d6c00968
+SHA1: 30e8c136af753a9d22fdb518ddc8fa405e5b3863
+SHA256: 9d42de76d72e99ff4d50b7bb522bb1d8bf911dea9e60f36684b74b2f853d4433
 Section: System
 Description: Turbo Boost Your Apple!
  Turbo Boost Your Apple!
@@ -456,15 +456,15 @@ Name: Resolution Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.restorefonts
-Version: 0.1.6
+Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: coreutils, coreutils-bin, firmware (>= 11.0)
-Filename: ./debs/com.michael.restorefonts_0.1.6_iphoneos-arm.deb
-Size: 6576
-MD5sum: 75cdb4d99e4e8eeb5d98daf1217c2eb0
-SHA1: a79d7aab32db5aadbe508ecc4b04354e712578fa
-SHA256: fa80417a68eef1337c368a250f111d282d1f31ea47f19a711d537808525df1f5
+Depends: coreutils, firmware (>= 11.0)
+Filename: ./debs/com.michael.restorefonts_0.2.0_iphoneos-arm.deb
+Size: 7564
+MD5sum: d2478b132ee7fab2823433820730de9d
+SHA1: 8c22fb7a0fad11a8ebeb19b9df969b438ac79528
+SHA256: 502d6507f520372ff1ff29ffb179f81c96b1c84216ca13cf18325e431a790d86
 Section: Tweaks
 Description: Quickily restore orignal fonts from your system snapshot.
 Author: halo_michael <yc992147156@me.com>
