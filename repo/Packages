@@ -217,15 +217,15 @@ Name: 心雨华文楷体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 
 Package: com.michael.generatorautosetter
-Version: 0.2.3
+Version: 0.2.4
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 12.3), com.michael.dimentio, coreutils
-Filename: ./debs/com.michael.generatorautosetter_0.2.3_iphoneos-arm.deb
-Size: 6212
-MD5sum: 6c8679e51fee75ba9988079869d35ae3
-SHA1: 7b7d37916904f8f24159f640f8e156df75903dd9
-SHA256: f416273e52535570efa8a72999fbbfa08de8aa4dc592ac919b87645231898514
+Filename: ./debs/com.michael.generatorautosetter_0.2.4_iphoneos-arm.deb
+Size: 6304
+MD5sum: 7e049c5bc3a028bb85bc9a524cc34dab
+SHA1: 417f00d17d6a6202c29561e54fa4fa26dcd70396
+SHA256: 575d2a394b9585d8e76bcfe75635be23bc0605f89666d9ac4350fd9545301121
 Section: Tweaks
 Description: Auto set your generator when jailbreaking!
 Author: halo_michael <yc992147156@me.com>
@@ -439,15 +439,15 @@ Name: Resolution Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.resolutionsetter
-Version: 0.5.0
+Version: 0.5.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0), coreutils
-Filename: ./debs/com.michael.resolutionsetter_0.5.0_iphoneos-arm.deb
-Size: 10900
-MD5sum: 75d2c8712b938e60f9e5c5e3f9ac09ab
-SHA1: a79e69c1b6b25d479e7c8cd7b57e7f46d9857aef
-SHA256: 92aaab9cdee6622b380c9a965431cff47da082183837e65b77ab41d31454697a
+Filename: ./debs/com.michael.resolutionsetter_0.5.1_iphoneos-arm.deb
+Size: 10664
+MD5sum: 446d58880ce13bd300af16fad17f5126
+SHA1: 74125cdde159499c8e9141c15bf0731eba9f0bc9
+SHA256: 5c3ac83268c3d35f6c55baf182fe613cc268fdb03280812f985af3f8821ea0be
 Section: Tweaks
 Description: Change your device resolution via Terminal!
 Author: halo_michael <yc992147156@me.com>
