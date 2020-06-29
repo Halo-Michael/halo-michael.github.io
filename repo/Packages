@@ -574,6 +574,21 @@ Description: Disable WeNet Jailbreak Detection.
 Author: Halo_Michael <yc992147156@me.com>
 Name: WeNetJailbreakHook
 
+Package: figlet
+Version: 2.2.5
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Filename: ./debs/figlet.deb
+Size: 94676
+MD5sum: 4eba81fe63541ed2845f6dff8efc6745
+SHA1: 20a420de13e8372cff42ba5d24c05ae317b55fd5
+SHA256: a62ac1a31e0ee69f7d2bf424e2872168a0c56737b4da28cd8b08ed6fd63c97f8
+Section: Games
+Description: Display large characters made up of ordinary screen characters.
+ Display large characters made up of ordinary screen characters.
+Author: figlet <info@figlet.org>
+Name: FIGlet
+
 Package: org.ppsspp.ppsspp-dev-latest
 Version: 0v1.10
 Architecture: iphoneos-arm
