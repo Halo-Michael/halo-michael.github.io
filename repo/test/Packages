@@ -3,11 +3,14 @@ Version: 1.12.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
+Conflicts: com.muirey03.iconsupportfix
+Replaces: com.muirey03.iconsupportfix
+Provides: com.muirey03.iconsupportfix
 Filename: ./debs/com.chpwn.iconsupport_1.12.1_iphoneos-arm.deb
-Size: 26572
-MD5sum: a95afb59b5e371410beec86850ed12fe
-SHA1: 60fe773cabde81d1601f85acd4c1ff662cf5478b
-SHA256: b7fcc9df065272203ffb2e4a0782d8b5dfd14014cc330d45c29596dd99879d7f
+Size: 26608
+MD5sum: 50e98aa07692a193d3be51e75c4d4011
+SHA1: 2076419cf4b952ce98751fb88fc9cc48dfd0eb13
+SHA256: 7a8e6fcfff2ba8a8302628ee58633e5a4638e670bc43beb8e18e402c58caa8bc
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
 Description: Support library for safe icon tweaks.
