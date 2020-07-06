@@ -507,14 +507,14 @@ Author: Nepeta
 Name: Selector(简体中文)
 
 Package: com.michael.snake
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Filename: ./debs/com.michael.snake_0.1.1_iphoneos-arm.deb
-Size: 8216
-MD5sum: 9fd0b8b624aed392d4a6a2fe39e9d58e
-SHA1: 160617aaa91efae0e7a9a410b034333ed46481bb
-SHA256: cebdd1fa6d9b0a316d0790320b2b81ae23c5b784d4cba9e9af177a0fbe2f2933
+Filename: ./debs/com.michael.snake_0.1.2_iphoneos-arm.deb
+Size: 8224
+MD5sum: 37d72e3e9753dd32954c90cff91ab820
+SHA1: 4b842304c48382ff58ea07ca183a4ba5a00de0b1
+SHA256: 87667035d89d066ad00ecec3e37731c30f826e81ec26c558498f25772e9a1da8
 Section: Games
 Description: A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
  A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
