@@ -506,6 +506,21 @@ Description: 选择文本以翻译或搜索
 Author: Nepeta
 Name: Selector(简体中文)
 
+Package: com.michael.snake
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Filename: ./debs/com.michael.snake_0.1.0_iphoneos-arm.deb
+Size: 5724
+MD5sum: f96a12f5463de9ac65a4e39e207ba156
+SHA1: f9bfad33e4c1793606737af346a4979e289beb29
+SHA256: e1a77b0133baed14cb8031f90a11ac16a322cc325b208fecd20e1c58cf85022b
+Section: Games
+Description: A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
+ A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
+Author: Jason Kruse
+Name: snake
+
 Package: com.michael.snappy
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -594,7 +609,7 @@ Package: figlet
 Version: 2.2.5
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Filename: ./debs/figlet.deb
+Filename: ./debs/figlet_2.2.5_iphoneos-arm.deb
 Size: 94676
 MD5sum: 4eba81fe63541ed2845f6dff8efc6745
 SHA1: 20a420de13e8372cff42ba5d24c05ae317b55fd5
