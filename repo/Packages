@@ -507,14 +507,14 @@ Author: Nepeta
 Name: Selector(简体中文)
 
 Package: com.michael.snake
-Version: 0.1.5
+Version: 0.1.6
 Architecture: all
 Maintainer: halo_michael <yc992147156@me.com>
-Filename: ./debs/com.michael.snake_0.1.5_all.deb
-Size: 13488
-MD5sum: dd0cfd3be95b741a0415cc40ccc193f2
-SHA1: 1d56274ccc93f9df105766ce4684089a35c5c092
-SHA256: 61783e1917f5b7179237b432da2b61b173f423bbe8f659fc50032caaf76a1d71
+Filename: ./debs/com.michael.snake_0.1.6_all.deb
+Size: 13988
+MD5sum: 67e1e5fc355d44467b6cc0f654f767c2
+SHA1: e28c7431b0a6b92ffb8c114ebca3c43f29b5a0c9
+SHA256: c846259117253e995d378f6d557b93e9c46dd40226e8ea0a18747c85cda60fc6
 Section: Games
 Description: A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
  A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
