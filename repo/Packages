@@ -507,14 +507,14 @@ Author: Nepeta
 Name: Selector(简体中文)
 
 Package: com.michael.snake
-Version: 0.1.4
+Version: 0.1.5
 Architecture: all
 Maintainer: halo_michael <yc992147156@me.com>
-Filename: ./debs/com.michael.snake_0.1.4_all.deb
-Size: 12540
-MD5sum: 1c87ff8f036b2a7deeed6905ae23ac6c
-SHA1: a3be2edf6dd7e39bb106b0db3ba56671100e1bc3
-SHA256: 3ae88cac637259bf725d41e561956d0f84f50bcd4c2979f1324b6d6fa2b5ae20
+Filename: ./debs/com.michael.snake_0.1.5_all.deb
+Size: 13488
+MD5sum: dd0cfd3be95b741a0415cc40ccc193f2
+SHA1: 1d56274ccc93f9df105766ce4684089a35c5c092
+SHA256: 61783e1917f5b7179237b432da2b61b173f423bbe8f659fc50032caaf76a1d71
 Section: Games
 Description: A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
  A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
@@ -661,17 +661,17 @@ Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
 Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.9.3-1033-g414b0e00e
+Version: 0v1.10.2-1-g143d54aa1
 Architecture: iphoneos-arm
 Maintainer: Henrik Rydgård
 Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.9.3-1033-g414b0e00e_iphoneos-arm.deb
-Size: 14708544
-MD5sum: fae6e31379c837ea28a8a49c68fdfa66
-SHA1: 3a51d3ebee48777ed3bb94347ed9dfa0db2d8b67
-SHA256: 7c95128124b8e7bfb9e0a3ca95bc18045a8659447d4c4c055826f2aa2dcaa460
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.2-1-g143d54aa1_iphoneos-arm.deb
+Size: 14714548
+MD5sum: 89a047621f4600417b10d3c4de211f14
+SHA1: b0e69ff3e62f04db71938afbb6ffaecc52e3bbb0
+SHA256: 7ac785153e7cf08973b11d34f66062c06f4c132c36c39ecb9e660d984aa335bd
 Section: Games
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
