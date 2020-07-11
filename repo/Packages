@@ -350,18 +350,18 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.localssh
-Version: 0.2.2
+Version: 0.3.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 11.0), openssh, sed
 Conflicts: com.midnightchips.localhostssh
 Replaces: com.midnightchips.localhostssh
 Provides: com.midnightchips.localhostssh
-Filename: ./debs/com.michael.localssh_0.2.2_iphoneos-arm.deb
-Size: 5520
-MD5sum: a02bd86b0662455740757330757a81d8
-SHA1: 53a2e0d38806f7bca0c86c9e6d034edbec960b21
-SHA256: 7816aaeba62c547106efdf5d61478d9ccc7f4750ca30b6b62c85bfcb00f42035
+Filename: ./debs/com.michael.localssh_0.3.0_iphoneos-arm.deb
+Size: 7328
+MD5sum: 83418b25e59c3ffb2c312b1c6d4f29b3
+SHA1: 9b1ef08a16383533c3e9d382d9a24aa816044807
+SHA256: 9997b4a036e37d45a11f1c198f6e68e872c5bd85c61096defa3ef442b91c92b4
 Section: Tweaks
 Description: Enable port 2222 for OpenSSH.
  Support Checkra1n, Chimera, Electra and Unc0ver.
