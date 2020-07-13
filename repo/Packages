@@ -29,18 +29,18 @@ Name: Network Magician
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.TimeMachine
-Version: 0.9.12
+Version: 0.10.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 10.3), preferenceloader
+Depends: firmware (>= 10.3), preferenceloader, shell-cmds
 Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
-Filename: ./debs/com.michael.TimeMachine_0.9.12_iphoneos-arm.deb
-Size: 79068
-MD5sum: f04f66b84660f6f07812f6b2ec00e6f8
-SHA1: bb8810f11f996c59dfaaccf841436864b1a40cfb
-SHA256: c961df9b421c5b529bc9085824228aef8051a992eefb001737808ab28a05feda
+Filename: ./debs/com.michael.TimeMachine_0.10.0_iphoneos-arm.deb
+Size: 34984
+MD5sum: c40f3094a921890b2ee42dbd14a23515
+SHA1: 42aad3943d9e544a534cdb786f155135055f44b8
+SHA256: 53a9a7b9360542b89f417425de84d4028db8b8a5d38e5098a62ad0847188033e
 Section: Tweaks
 Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
  TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
