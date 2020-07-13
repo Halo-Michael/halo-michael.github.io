@@ -265,15 +265,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: HandPrint
 
 Package: com.michael.httpserver
-Version: 0.2.1
+Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: preferenceloader, python3
-Filename: ./debs/com.michael.httpserver_0.2.1_iphoneos-arm.deb
-Size: 8376
-MD5sum: c43e9041d60a1ad21f6ee6376c1041f4
-SHA1: 10489824a58562ee6a5e2dc54332f7814d07c752
-SHA256: 0fbd685bc93bc87b0c8e4fb11ea7d8489d0b43e958c35ac6c0cafefcd3af32c9
+Filename: ./debs/com.michael.httpserver_0.2.2_iphoneos-arm.deb
+Size: 8456
+MD5sum: b81f8b77e8ff7aabd238b0ab0f7d02ee
+SHA1: 1d626109623f5096a88108370d4f30ad886a64b0
+SHA256: da5c283f69715dbb6aaab6c846738745f927a0e89ce2516feefe2329af1cd290
 Section: Utilities
 Description: Enable local http server on your device, set in Settings app.
 Author: halo_michael <yc992147156@me.com>
