@@ -28,32 +28,6 @@ Author: halo_michael <yc992147156@me.com>
 Name: Network Magician
 Sponsor: halo_michael <yc992147156@me.com>
 
-Package: com.michael.TimeMachine
-Version: 0.10.3
-Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 10.3), preferenceloader, shell-cmds
-Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
-Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
-Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
-Filename: ./debs/com.michael.TimeMachine_0.10.3_iphoneos-arm.deb
-Size: 40776
-MD5sum: d5155660bec13c031a2b73fce15c0962
-SHA1: 26424a304c08e2f092f6a089debc91fa5d3a1ca4
-SHA256: 57108a69778925b0ed2e567832720c6769506f651fe78501bae82d4cdc3df112
-Section: Tweaks
-Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
- TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
- You can use "setTimeMachine" on Terminal to select the maximum number of snapshots you want to backup for TimeMachine.
- Usage:	setTimeMachine [OPTIONS...]
- 	-f <vol> -n <num>	Set the max number of snapshots that need to be backed up for rootfs/datafs.
- 	-s			Show current settings.
- If you want to restore a snapshot on datafs, please use Snapback.
- You can get Snapback on midnightchips’s repo: https://repo.midnightchips.me
-Author: halo_michael <yc992147156@me.com>
-Name: TimeMachine on iOS
-Sponsor: halo_michael <yc992147156@me.com>
-
 Package: com.michael.apfs-deletefs
 Version: 0.2.1
 Architecture: iphoneos-arm
@@ -571,6 +545,32 @@ Description: Temporarily assume root privileges but need not password.
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/suer
 Name: suer
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.timemachine
+Version: 0.10.4
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 10.3), preferenceloader, shell-cmds
+Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Filename: ./debs/com.michael.timemachine_0.10.4_iphoneos-arm.deb
+Size: 40724
+MD5sum: 1ba018a8992cd0d19003b32e0d1db4c6
+SHA1: 2c2097d9625fda60ce327204c5bb5d63fa0d0a24
+SHA256: 9bbf4f794413fd3bfb6dc8ce79581c7d1fd68de9db9998a0c35d00d625d3d74d
+Section: Tweaks
+Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
+ TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
+ You can use "setTimeMachine" on Terminal to select the maximum number of snapshots you want to backup for TimeMachine.
+ Usage:	setTimeMachine [OPTIONS...]
+ 	-f <vol> -n <num>	Set the max number of snapshots that need to be backed up for rootfs/datafs.
+ 	-s			Show current settings.
+ If you want to restore a snapshot on datafs, please use Snapback.
+ You can get Snapback on midnightchips’s repo: https://repo.midnightchips.me
+Author: halo_michael <yc992147156@me.com>
+Name: TimeMachine on iOS
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.wechatjailbreakhook
