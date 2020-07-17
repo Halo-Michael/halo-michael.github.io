@@ -142,6 +142,21 @@ Author: 0x7ff
 Depiction: https://halo-michael.github.io/repo/info/dimentio
 Name: dimentio
 
+Package: com.michael.dimentio
+Version: 0.6.1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Filename: ./debs/com.michael.dimentio_0.6.1_iphoneos-arm.deb
+Size: 10612
+MD5sum: f0b87e8d6e4bd891ff2eea045c3d179e
+SHA1: 5c65e9f160c449cf91dec1df79ed484b9f7b2e5c
+SHA256: ac7479e7f72dddece8d8945c2d6ef5f160e8b6df31af8b25e038d00f7dc65ec3
+Section: System
+Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Author: 0x7ff
+Depiction: https://halo-michael.github.io/repo/info/dimentio
+Name: dimentio
+
 Package: com.michael.fixldrestart
 Version: 0.0.2
 Architecture: iphoneos-arm
