@@ -359,15 +359,15 @@ Name: LocalSSH
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.neofetch
-Version: 1.1.0
+Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: coreutils-bin, git, make
-Filename: ./debs/com.michael.neofetch_1.1.0_iphoneos-arm.deb
-Size: 1124
-MD5sum: 574057ab4ca2f06621eb99b17eb643e6
-SHA1: 4fbc326b28b8ba16a9aa6301bcad2e4ef5dd8fd1
-SHA256: 9f44f0de78ec890447685b883a8d3beab2d077157e9a0a93ee85d0fc351cda2a
+Depends: bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
+Filename: ./debs/com.michael.neofetch_1.2.0_iphoneos-arm.deb
+Size: 1396
+MD5sum: 62617e561473c25f0bb4f5f60ec2c826
+SHA1: caa7883ea360a61a6c5f32d12b12df9e7ca8e30f
+SHA256: e0399d8153e24b99054960172cf760f191ead4405568823b1811ef4122c1fcbf
 Section: System
 Description: Install neofetch from https://github.com/dylanaraps/neofetch.git.
 Author: halo_michael <yc992147156@me.com>
