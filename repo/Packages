@@ -433,10 +433,10 @@ Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0), preferenceloader
 Filename: ./debs/com.michael.resolutionsetter_0.6.0_iphoneos-arm.deb
-Size: 17700
-MD5sum: c32a7d4085be7acf8bd74001621d86e5
-SHA1: 5f9a1bb9181ee2c940966e4c231a4f47f797775e
-SHA256: 39be951d57b6edc33192a13885b9c656ccf0c7c66020c33ee071a6a3426a98d6
+Size: 17688
+MD5sum: ecec8eea1d1a0093162b7a2749c49ee6
+SHA1: 3088fbab61785d8fe2b80656129859ae8aeaa2d5
+SHA256: 0b69166f47f80277ff8e284d25043387014416d48e123ed6b05d8f5e846b0189
 Section: Tweaks
 Description: Change your device resolution on Settings or via Terminal!
 Author: halo_michael <yc992147156@me.com>
