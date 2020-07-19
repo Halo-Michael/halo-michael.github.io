@@ -428,17 +428,17 @@ Name: Resolution Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.resolutionsetter
-Version: 0.5.1
+Version: 0.6.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 9.0), coreutils
-Filename: ./debs/com.michael.resolutionsetter_0.5.1_iphoneos-arm.deb
-Size: 10664
-MD5sum: 446d58880ce13bd300af16fad17f5126
-SHA1: 74125cdde159499c8e9141c15bf0731eba9f0bc9
-SHA256: 5c3ac83268c3d35f6c55baf182fe613cc268fdb03280812f985af3f8821ea0be
+Depends: firmware (>= 9.0), preferenceloader
+Filename: ./debs/com.michael.resolutionsetter_0.6.0_iphoneos-arm.deb
+Size: 17700
+MD5sum: c32a7d4085be7acf8bd74001621d86e5
+SHA1: 5f9a1bb9181ee2c940966e4c231a4f47f797775e
+SHA256: 39be951d57b6edc33192a13885b9c656ccf0c7c66020c33ee071a6a3426a98d6
 Section: Tweaks
-Description: Change your device resolution via Terminal!
+Description: Change your device resolution on Settings or via Terminal!
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/resolutionsetter
 Name: Resolution Setter
