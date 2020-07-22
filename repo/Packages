@@ -531,15 +531,15 @@ Author: Sam Bingner <snappy@bingner.com>
 Name: Snappy
 
 Package: com.michael.substrated
-Version: 0.9.7105
+Version: 0.9.7106
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: dpkg, firmware(>=12.3), grep
-Filename: ./debs/com.michael.substrated_0.9.7105_iphoneos-arm.deb
-Size: 2528364
-MD5sum: 842a54f4392a093071efee08da2a2041
-SHA1: a81986a99841c9db813662182e481e86e844a0ff
-SHA256: 2394c6d7d38c4ac93e72449084379c7c9bcb94b564bae75ad0a5fe3261156bb6
+Filename: ./debs/com.michael.substrated_0.9.7106_iphoneos-arm.deb
+Size: 2531812
+MD5sum: 102f850d8d345b2ee7fe90be4f72e205
+SHA1: a5357233ebb087f91175d57c184bc944742c9e21
+SHA256: a9c087e59bd7aed90bcec8acffb39c19a1c567f554d139ff985141c31a128bf2
 Section: System
 Description: Simple gadget that allows switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate.
 Author: Halo_Michael <yc992147156@me.com>
