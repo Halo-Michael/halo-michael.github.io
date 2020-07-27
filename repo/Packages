@@ -128,29 +128,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.6.0
+Version: 0.6.2
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Filename: ./debs/com.michael.dimentio_0.6.0_iphoneos-arm.deb
-Size: 10612
-MD5sum: 628e2934c4b43e277bef3fba0327a9fc
-SHA1: 72b6bec6d3c3f936c5a09fe9f02831ca015a9bc9
-SHA256: 2991835e8a33d21e4a9808ba77cc22bf23c9e93b97b20aa44b46b4e85b5e1d9f
-Section: System
-Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
-Author: 0x7ff
-Depiction: https://halo-michael.github.io/repo/info/dimentio
-Name: dimentio
-
-Package: com.michael.dimentio
-Version: 0.6.1
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Filename: ./debs/com.michael.dimentio_0.6.1_iphoneos-arm.deb
-Size: 10612
-MD5sum: f0b87e8d6e4bd891ff2eea045c3d179e
-SHA1: 5c65e9f160c449cf91dec1df79ed484b9f7b2e5c
-SHA256: ac7479e7f72dddece8d8945c2d6ef5f160e8b6df31af8b25e038d00f7dc65ec3
+Depends: firmware(>= 10.0)
+Filename: ./debs/com.michael.dimentio_0.6.2_iphoneos-arm.deb
+Size: 10728
+MD5sum: 4079552130a35d8645e1ee3eeaa1e8bf
+SHA1: 313e58d3e5338a137061acbb1fc5db77ea3af4a5
+SHA256: 5b78fc73ba0c5349e83ccc3723ef7f8d8dc63c4b876e79ea93d0d71a44193bff
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
