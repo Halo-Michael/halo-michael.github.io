@@ -246,10 +246,10 @@ Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: preferenceloader, python3, shell-cmds
 Filename: ./debs/com.michael.httpserver_0.2.4_iphoneos-arm.deb
-Size: 8128
-MD5sum: 2960e5b0e2c464cebd6a2295f9c3017c
-SHA1: f7183edf7676a56a4e0bf5edc46c0fdb952a3302
-SHA256: e42557858e40498c7bcbfdc5e76cd54a8a1d7426afd9ebcc6a281a041e159d82
+Size: 8108
+MD5sum: a537b50f9a44202092baf9ca3bec144a
+SHA1: 8df034fe9f8ddc205aefe840e4a0bf70c36a4532
+SHA256: be96c498a0a6b62bf0d470d05a5edba25457213f9d09771b5602a8e21d215dd1
 Section: Utilities
 Description: Enable local http server on your device, set in Settings app.
 Author: halo_michael <yc992147156@me.com>
