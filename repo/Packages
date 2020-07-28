@@ -241,15 +241,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: HandPrint
 
 Package: com.michael.httpserver
-Version: 0.2.3
+Version: 0.2.4
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: preferenceloader, python3, shell-cmds
-Filename: ./debs/com.michael.httpserver_0.2.3_iphoneos-arm.deb
-Size: 8832
-MD5sum: 04c7662abf0554a3f228f12eaabf73ba
-SHA1: 1b61da4572e47e4bf416318d3ab5c12c5d1a3400
-SHA256: 3b86bbc3d07fcc44b3e79b388a85698c4861537fa37272783331106fb28920ca
+Filename: ./debs/com.michael.httpserver_0.2.4_iphoneos-arm.deb
+Size: 8128
+MD5sum: 2960e5b0e2c464cebd6a2295f9c3017c
+SHA1: f7183edf7676a56a4e0bf5edc46c0fdb952a3302
+SHA256: e42557858e40498c7bcbfdc5e76cd54a8a1d7426afd9ebcc6a281a041e159d82
 Section: Utilities
 Description: Enable local http server on your device, set in Settings app.
 Author: halo_michael <yc992147156@me.com>
@@ -413,15 +413,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: QQUnlimitedFlashPhotos
 
 Package: com.michael.resolutionautosetter
-Version: 0.4.1
+Version: 0.4.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: com.michael.resolutionsetter (>= 0.4.2), firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.michael.resolutionautosetter_0.4.1_iphoneos-arm.deb
-Size: 5764
-MD5sum: 1a1562eafe5cc152770daa77b01c80af
-SHA1: 8d8e8ea183344a214c743d0b2e64fc92ef512195
-SHA256: 006355d132b8e5793868bd1bc0dd11691511dc8257133b8ea68bea232b10f0ca
+Filename: ./debs/com.michael.resolutionautosetter_0.4.2_iphoneos-arm.deb
+Size: 5624
+MD5sum: 8ead281fbb4a11c2367c49faf86fe7af
+SHA1: 325c02f9e5370c9be408af32137435a12372b094
+SHA256: 964e3e2a3ee6ae0897cf8f3e6c14e7fa6b1f97274610cb927794b501911ba21f
 Section: Tweaks
 Description: Auto set your resolution when jailbreaking!
  Auto set your resolution when jailbreaking!
