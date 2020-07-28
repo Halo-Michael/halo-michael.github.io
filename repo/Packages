@@ -209,15 +209,16 @@ Name: Generator Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.globalizefix
-Version: 0.3.3
+Version: 0.4.0-1
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: com.parrotgeek.globalize, com.michael.suer, coreutils-bin, mobilesubstrate, uikittools
-Filename: ./debs/com.michael.globalizefix_0.3.3_iphoneos-arm.deb
-Size: 6732
-MD5sum: b73a6777a2dc158d5e45ddf238476504
-SHA1: ffe59728d2e6f56a32772ab77e167fe58e73c188
-SHA256: 44b54af58617b39108d67c6c20311402601c9af43cc6b3a28f592f9c703e5ddc
+Installed-Size: 136
+Depends: com.parrotgeek.globalize, com.michael.suer, mobilesubstrate
+Filename: ./debs/com.michael.globalizefix_0.4.0-1_iphoneos-arm.deb
+Size: 4012
+MD5sum: 683092003354843c9f1740279be59b90
+SHA1: 026a930b30a7b987e0bec282e544ade88bb84d03
+SHA256: 9f24e80ef0db66a3ab229efaa27fe2fdb420ecee28537d3c39a9cb2cf2534aea
 Section: Tweaks
 Description: Fixed an issue that reboot may caused Globalize lose its effect.
 Author: Halo_Michael <yc992147156@me.com>
