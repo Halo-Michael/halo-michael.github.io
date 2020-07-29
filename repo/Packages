@@ -158,6 +158,22 @@ Description: Fix ldrestart on unc0ver with sandbox apps
 Author: halo_michael <yc992147156@me.com>
 Name: FixLdrestart(Unc0ver)
 
+Package: com.michael.fonts.joypixels-emoji-theme
+Version: 6.0.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>= 13.2) | com.ps.emojiportpe
+Filename: ./debs/com.michael.fonts.joypixels-emoji-theme_6.0.0_iphoneos-arm.deb
+Size: 54923804
+MD5sum: 820eb66a6b676c6c26abe1a50c13ec5d
+SHA1: b918083dc2495942ba361bb29a92745111f14dbb
+SHA256: 46440f410d3ce089c8a91893c00e739af4a015d499118d66c0faf72f0a052d44
+Section: Fonts
+Homepage: https://www.joypixels.com/emoji
+Description: JoyPixels 6.0 Free Fonts, only for personal use or commercial testing purposes.
+Author: JoyPixels Inc.
+Name: JoyPixels Emoji Theme
+
 Package: com.michael.fontsemoji-theme
 Version: 13.2-final
 Architecture: iphoneos-arm
@@ -294,22 +310,6 @@ Description: Exploit demo of ipv6_pathmtu (CVE-2020-3842).
  Network required to install scapy module for python3 (if not already installed).
 Author: nedwill <nedwill@google.com>
 Name: ipv6_pathmtu
-
-Package: com.michael.joypixels-emoji-theme
-Version: 6.0.0
-Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>= 13.2) | com.ps.emojiportpe
-Filename: ./debs/com.michael.joypixels-emoji-theme_6.0.0_iphoneos-arm.deb
-Size: 54883732
-MD5sum: b2f9f9df3cfd2b80d75913dbf89029be
-SHA1: 4e2face22cd00a42b47f46ebe2ea8e1623557073
-SHA256: 76938ec2fecbb979f75b7ce961b7b926340e2117863ca341a38aa4853804b356
-Section: Fonts
-Homepage: https://www.joypixels.com/emoji
-Description: JoyPixels 6.0 Free Fonts, only for personal use or commercial testing purposes.
-Author: JoyPixels Inc.
-Name: JoyPixels Emoji Theme
 
 Package: com.michael.jtool
 Version: 1.2.0
