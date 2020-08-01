@@ -464,15 +464,15 @@ Name: Resolution Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.restorefonts
-Version: 0.3.2
+Version: 0.3.3
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: coreutils, firmware (>= 11.0)
-Filename: ./debs/com.michael.restorefonts_0.3.2_iphoneos-arm.deb
-Size: 6932
-MD5sum: bf210ab7cfc70b46cfe05a98b2d8f7de
-SHA1: d08ac177885deaaf6c0ca22ac327cb54cbba9909
-SHA256: 988764b56e2745fa3da7311a70d855328811b106892f1e71a5552d8bc115f33b
+Filename: ./debs/com.michael.restorefonts_0.3.3_iphoneos-arm.deb
+Size: 6920
+MD5sum: 70d754372b28b3e4e2a5e226e25b8903
+SHA1: 928cf0fd5529aef49099e4e8f4937adbf834ec8a
+SHA256: 4e7fde5b12d7106c1df31d021ed6c4c19d1eae99f059b882e9b4b54263413bf3
 Section: Tweaks
 Description: Quickily restore orignal fonts from your system snapshot.
 Author: halo_michael <yc992147156@me.com>
