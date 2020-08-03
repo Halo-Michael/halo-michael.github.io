@@ -240,6 +240,23 @@ Depiction: https://halo-michael.github.io/repo/info/generatorautosetter
 Name: Generator Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
+Package: com.michael.generatorautosetter
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 12.3), com.michael.dimentio, preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.3.2_iphoneos-arm.deb
+Size: 11300
+MD5sum: ccecc84a8b2571e116defdf0f70255f0
+SHA1: 485665af3179952b4ac20017da509eedde974ee0
+SHA256: 8e2fc851bf0e77513078192896ab6633db0515f504edf3c3a05194ebe816919d
+Section: Tweaks
+Description: Auto set your generator when jailbreaking!
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/generatorautosetter
+Name: Generator Auto Setter
+Sponsor: halo_michael <yc992147156@me.com>
+
 Package: com.michael.globalizefix
 Version: 0.4.0-1
 Architecture: iphoneos-arm
