@@ -590,10 +590,10 @@ Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonio
 Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Filename: ./debs/com.michael.timemachine_0.10.7_iphoneos-arm.deb
-Size: 42960
-MD5sum: 1d6286ffdac385a99f45e8b59562fe23
-SHA1: 3e744083bb6266991f62678ca0502304e2da7c47
-SHA256: 3d36294198cb796b400e56fe9c122337e578fd3f1c13c60416190a5af44f2a55
+Size: 42996
+MD5sum: 584ef34153f9049b1da358687fb7e8ad
+SHA1: 4c8d17a93964bce55c55be16283dc6977694dfd0
+SHA256: 4d8bbd8e729015d8bf3347e932a54927b52f96c45f7cec3c89c45688418d14b6
 Section: Tweaks
 Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
  TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
