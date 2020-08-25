@@ -358,21 +358,21 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.localssh
-Version: 0.3.0
+Version: 0.4.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 11.0), openssh, sed
+Depends: firmware (>= 12.0), openssh(>= 8.0)
 Conflicts: com.midnightchips.localhostssh
 Replaces: com.midnightchips.localhostssh
 Provides: com.midnightchips.localhostssh
-Filename: ./debs/com.michael.localssh_0.3.0_iphoneos-arm.deb
-Size: 7328
-MD5sum: 83418b25e59c3ffb2c312b1c6d4f29b3
-SHA1: 9b1ef08a16383533c3e9d382d9a24aa816044807
-SHA256: 9997b4a036e37d45a11f1c198f6e68e872c5bd85c61096defa3ef442b91c92b4
+Filename: ./debs/com.michael.localssh_0.4.0_iphoneos-arm.deb
+Size: 7196
+MD5sum: ae432269997f2c7c354c99f69bf9306b
+SHA1: a31497040bff28726452cc3ad2da98118fa407c6
+SHA256: b98dc24a21565ff7ed281c6165503bf3030a673b4eb04fee5d779b5cf8fc0ad8
 Section: Tweaks
-Description: Enable port 2222 for OpenSSH.
- Support Checkra1n, Chimera, Electra and Unc0ver.
+Description: Enable port 2222 on localhost for OpenSSH.
+ Support Checkra1n, Chimera , Odyssey and Unc0ver.
 Author: halo_michael <yc992147156@me.com>
 Name: LocalSSH
 Sponsor: halo_michael <yc992147156@me.com>
