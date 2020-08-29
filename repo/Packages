@@ -224,15 +224,15 @@ Name: 心雨华文楷体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 
 Package: com.michael.generatorautosetter
-Version: 0.3.7
+Version: 0.3.8
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 12.3), com.michael.dimentio, preferenceloader
-Filename: ./debs/com.michael.generatorautosetter_0.3.7_iphoneos-arm.deb
-Size: 11084
-MD5sum: 1800091726522e07bf1bd2ff27fca197
-SHA1: f5041a7ff75ea4c5d6702f0b39fda16c79d0f299
-SHA256: d0f60e8ed7b9198844373a60813a5dc45aebfc8da9da1c5a1e76edb3c0e2d3c1
+Filename: ./debs/com.michael.generatorautosetter_0.3.8_iphoneos-arm.deb
+Size: 11088
+MD5sum: 5569a7737857b06cef5f7bc7adec3b5d
+SHA1: 4885cc6359c795436e4949bc12adfd2413587ee6
+SHA256: 75dc6e008da787bb0173636b2c51686a81c84441a2c7c11b5981bc5e49509a2c
 Section: Tweaks
 Description: Auto set your generator when jailbreaking!
 Author: halo_michael <yc992147156@me.com>
