@@ -655,26 +655,6 @@ Author: figlet <info@figlet.org>
 Name: FIGlet
 
 Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.10.3-272-g45b05b386
-Architecture: iphoneos-arm
-Maintainer: Henrik Rydgård
-Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
-Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.3-272-g45b05b386_iphoneos-arm.deb
-Size: 14822240
-MD5sum: f8d8db37ece9189d41f551ff949f7053
-SHA1: 6b46bfa51828692b2a0e303664d308a2a0cac61a
-SHA256: 34d5f719cd34fce1e40414556fd7182de6b017c235941fcce5222bbc3f05af13
-Section: Games
-Homepage: https://build.ppsspp.org/
-Description: A PSP emulator
-Author: Henrik Rydgård
-Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
-Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
-Name: PPSSPP (Dev-Latest)
-
-Package: org.ppsspp.ppsspp-dev-latest
 Version: 0v1.10.3-328-g937042b3d
 Architecture: iphoneos-arm
 Maintainer: Henrik Rydgård
@@ -706,6 +686,26 @@ Size: 14993312
 MD5sum: ba31373762d56e8c42fd3d04e70e3cf9
 SHA1: 81ab7eab24f376b5962892462b7c1234280c82c7
 SHA256: a512590a45867e9ec44449f7f65cb6c15032376f68be66be76c31e398861928e
+Section: Games
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Name: PPSSPP (Dev-Latest)
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.10.3-543-ge8c2fce1b
+Architecture: iphoneos-arm
+Maintainer: Henrik Rydgård
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.3-543-ge8c2fce1b_iphoneos-arm.deb
+Size: 15006744
+MD5sum: 84db6bcd7b8ee635bcd9587ca3f36731
+SHA1: a56fcd176f7f081bed0f2737714c6a96c41e7816
+SHA256: cea4d8dd9f4f0ebe4fec9c2583ec39c00f092abb4e281e1a697b3dc089aa9725
 Section: Games
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
