@@ -273,15 +273,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: HandPrint
 
 Package: com.michael.httpserver
-Version: 0.3.0
+Version: 0.3.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: preferenceloader, python3, shell-cmds
-Filename: ./debs/com.michael.httpserver_0.3.0_iphoneos-arm.deb
-Size: 7448
-MD5sum: e381e40e7d3fde7ace07458d905d449b
-SHA1: 832f21fc2645323f3a40d3b3000a7c96899bc7bf
-SHA256: add827e91fc5de4b87db8f819cdaa62a9228e7ed0b040e0dff86d8f88b41c870
+Filename: ./debs/com.michael.httpserver_0.3.1_iphoneos-arm.deb
+Size: 7464
+MD5sum: 8cde23884b168b450cf1b3a709dc9e23
+SHA1: f23a198fc68038e294f25d3e0484521530572304
+SHA256: 4a380a89db2bb2183fd4539e8c165ec05aaf77862b37ee4172f10030577160fd
 Section: Utilities
 Description: Enable local http server on your device, set in Settings app.
 Author: halo_michael <yc992147156@me.com>
@@ -447,15 +447,15 @@ Name: Resolution Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.resolutionsetter
-Version: 0.7.1
+Version: 0.7.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0), preferenceloader
-Filename: ./debs/com.michael.resolutionsetter_0.7.1_iphoneos-arm.deb
-Size: 13436
-MD5sum: fb64b7785aff577afb522312ecd70ffd
-SHA1: 13372283b1a93437167049f583e8a56c87ac41d1
-SHA256: 357e1d10d702c4aff26c1b61df4bb61b6b983e337496283014a5a0656879197e
+Filename: ./debs/com.michael.resolutionsetter_0.7.2_iphoneos-arm.deb
+Size: 13372
+MD5sum: 277bb94650dd4299ae683bb18e1f018f
+SHA1: 5380c0be5058efee2af5b83daee87ffad759964f
+SHA256: b55b16b6b0cbed90627cf9a4b69c6fca0da6e7673a570eda32b2d9ab406ca5d7
 Section: Tweaks
 Description: Change your device resolution on Settings or via Terminal!
 Author: halo_michael <yc992147156@me.com>
@@ -550,15 +550,15 @@ Author: Sam Bingner <snappy@bingner.com>
 Name: Snappy
 
 Package: com.michael.substrated
-Version: 0.9.7110-1
+Version: 0.9.7111
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: dpkg, firmware(>=12.3)
-Filename: ./debs/com.michael.substrated_0.9.7110-1_iphoneos-arm.deb
-Size: 2537512
-MD5sum: ac282170c33fec72a434cc83ea5b01a1
-SHA1: cebd7f1995b29f67c33828afb0833ce920a74c71
-SHA256: 38624fcd0cf777f75cfad48b942d584e9ddfbfc280cb76cb87de1c38d7aaa210
+Filename: ./debs/com.michael.substrated_0.9.7111_iphoneos-arm.deb
+Size: 2534608
+MD5sum: b7dba7f288cd4a7501ac197cd0acdeed
+SHA1: 7e972aae8de716747346c0a1535b3a61c4fb4430
+SHA256: e7ffff97f979c7febe5d9d3439a4896dddf5ae34917873a589c30b8aa49319ee
 Section: System
 Description: Simple gadget that allows switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate.
 Author: Halo_Michael <yc992147156@me.com>
