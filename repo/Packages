@@ -429,15 +429,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: QQUnlimitedFlashPhotos
 
 Package: com.michael.resolutionautosetter
-Version: 0.4.2
+Version: 0.4.3
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: com.michael.resolutionsetter (>= 0.4.2), firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.michael.resolutionautosetter_0.4.2_iphoneos-arm.deb
-Size: 5624
-MD5sum: 8ead281fbb4a11c2367c49faf86fe7af
-SHA1: 325c02f9e5370c9be408af32137435a12372b094
-SHA256: 964e3e2a3ee6ae0897cf8f3e6c14e7fa6b1f97274610cb927794b501911ba21f
+Filename: ./debs/com.michael.resolutionautosetter_0.4.3_iphoneos-arm.deb
+Size: 6160
+MD5sum: 1feeea370d4f8d5bac7e18a81f26cfa4
+SHA1: d9111cfe370b551e46e2c31fe11db250b1759dbd
+SHA256: 0ec805b16cad9d4a8226bf5a284fc3bddae0c09bd10cf936d5beabc198872940
 Section: Tweaks
 Description: Auto set your resolution when jailbreaking!
  Auto set your resolution when jailbreaking!
