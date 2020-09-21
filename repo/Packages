@@ -288,6 +288,21 @@ Author: halo_michael <yc992147156@me.com>
 Name: HttpServer
 Sponsor: halo_michael <yc992147156@me.com>
 
+Package: com.michael.infoleak
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Filename: ./debs/com.michael.infoleak_0.1.0_iphoneos-arm.deb
+Size: 5028
+MD5sum: eb266e5689a54940c12dc10727e0e098
+SHA1: 50c99731c2b136fb11fdba1cb144bebf9e4f5cd2
+SHA256: 689b0a1da4414f2bbf84cd488f142300fd42c5e6c9eab0ff2ba3be5eb6df7e19
+Section: Exploit demo
+Description: Exploit demo of CVE-2020-9964.
+ Exploit demo of CVE-2020-9964. XNU/IOSurfaceAccelerator info leak 1day. Killed in iOS 14. More details: https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html
+Author: Muirey03
+Name: infoleak
+
 Package: com.michael.iostoolchain
 Version: 1.1.0
 Architecture: iphoneos-arm
