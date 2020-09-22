@@ -128,15 +128,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.6.2
+Version: 0.7.0
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware(>= 10.0)
-Filename: ./debs/com.michael.dimentio_0.6.2_iphoneos-arm.deb
-Size: 10728
-MD5sum: 4079552130a35d8645e1ee3eeaa1e8bf
-SHA1: 313e58d3e5338a137061acbb1fc5db77ea3af4a5
-SHA256: 5b78fc73ba0c5349e83ccc3723ef7f8d8dc63c4b876e79ea93d0d71a44193bff
+Filename: ./debs/com.michael.dimentio_0.7.0_iphoneos-arm.deb
+Size: 11288
+MD5sum: 3101936973afd6c0ce92454804f33003
+SHA1: a43bec0169d0ce03a35ca3f84bf43b59f3c99480
+SHA256: 11c0256b2c2a311662fa1d2b62644469a39f4212a0b20b12a34f21f18e33497f
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
@@ -224,15 +224,15 @@ Name: 心雨华文楷体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 
 Package: com.michael.generatorautosetter
-Version: 0.3.8
+Version: 0.4.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 12.3), com.michael.dimentio, preferenceloader
-Filename: ./debs/com.michael.generatorautosetter_0.3.8_iphoneos-arm.deb
-Size: 11088
-MD5sum: 5569a7737857b06cef5f7bc7adec3b5d
-SHA1: 4885cc6359c795436e4949bc12adfd2413587ee6
-SHA256: 75dc6e008da787bb0173636b2c51686a81c84441a2c7c11b5981bc5e49509a2c
+Depends: firmware (>= 12.0), com.michael.dimentio, preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.4.0_iphoneos-arm.deb
+Size: 15452
+MD5sum: b90cfe588f8e2585b6cbfcf8fc8762d5
+SHA1: f0a9cf89b7c097b163fdb2ad218ca5be457ed195
+SHA256: 4038d9e8a04c66eb29fe09919388efccd7e6e1d2f59dd1db892c677d3a27b399
 Section: Tweaks
 Description: Auto set your generator when jailbreaking!
 Author: halo_michael <yc992147156@me.com>
