@@ -545,19 +545,19 @@ Author: Jason Kruse
 Name: snake
 
 Package: com.michael.snappy
-Version: 1.3.1
-Architecture: iphoneos-arm
+Version: 1.3.2
+Architecture: all
 Maintainer: halo_michael <yc992147156@me.com>
-Installed-Size: 448
+Installed-Size: 195
 Depends: firmware (>= 10.3)
 Conflicts: com.bingner.snappy
 Replaces: com.bingner.snappy
 Provides: com.bingner.snappy
-Filename: ./debs/com.michael.snappy_1.3.1_iphoneos-arm.deb
-Size: 31330
-MD5sum: bb439edf6ac980fb45f98bf5578128e7
-SHA1: cc36957a24d3fde556f568374766251d2bf518ea
-SHA256: 2de02b769392c0f0975e881a4caff634af277d89fa7d03c21d12cef9e24c23eb
+Filename: ./debs/com.michael.snappy_1.3.2_iphoneos-arm.deb
+Size: 16176
+MD5sum: 524a868c51b83d2fc571303041503103
+SHA1: 463bcdc29b45dbd571d075a43fd1883d4b983821
+SHA256: 45ced100e3237011da6c54569edadd0f2ac28fc4f9ef9bd672aea004477661fe
 Section: System
 Description: A Tool for APFS Snapshot Management; removed disable revent restrict on iOS.
 Tag: role::hacker
