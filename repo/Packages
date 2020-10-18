@@ -128,15 +128,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.7.4
+Version: 0.7.5
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware(>= 10.0)
-Filename: ./debs/com.michael.dimentio_0.7.4_iphoneos-arm.deb
-Size: 14100
-MD5sum: 9f231dc7c7202b54af631dfacfcbd271
-SHA1: 8475d1f4041b48441c1c22bce9cc05e8c092ff17
-SHA256: 84462628b8b66c087fdb9b2155b5cda6999109b19df7174b08a5b33a74903022
+Filename: ./debs/com.michael.dimentio_0.7.5_iphoneos-arm.deb
+Size: 13800
+MD5sum: a004eed268c7e2156ace96c8f469a809
+SHA1: 28910e3ece8fea0694f9a250e5b6d444d3f8248a
+SHA256: 886a310aec938350feb5a4065490dc7090ae5fd649b504fe6df6246a4c5846f4
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
