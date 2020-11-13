@@ -597,18 +597,18 @@ Name: suer
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.timemachine
-Version: 0.11.6
+Version: 0.11.7
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 10.3), launchctl, preferenceloader
 Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
-Filename: ./debs/com.michael.timemachine_0.11.6_iphoneos-arm.deb
-Size: 48408
-MD5sum: 1342e6bdf942e7a50696222b5201768e
-SHA1: aef538f0d43fd0d35ff4576d8394f028d2aa0738
-SHA256: c1958487633ba301432b613446dc3db00e08a804b62170a36f325e9db94c56e5
+Filename: ./debs/com.michael.timemachine_0.11.7_iphoneos-arm.deb
+Size: 48796
+MD5sum: df0ec2a43d758418683e0af762e238e2
+SHA1: 5bb7ec9974586fec38aad6b71f9c4a519e96cbaf
+SHA256: ae89ea8957c99298bbde8e69734344b4c818de0c57b71bb3ea075535e6b81d30
 Section: Tweaks
 Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
  TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
