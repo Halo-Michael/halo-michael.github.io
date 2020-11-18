@@ -128,15 +128,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.8.3
+Version: 0.8.4
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware(>= 10.0), com.michael.libdementia
-Filename: ./debs/com.michael.dimentio_0.8.3_iphoneos-arm.deb
-Size: 3536
-MD5sum: 21d922aa90bc45c14d8fcd02b7baf41e
-SHA1: 45b0197dd8f6e052a713cb3a0ce7aa045544dda9
-SHA256: 276eafe02659eded5c4d07310fd42fe5bc3d8b29d8b77cdedaf52d44d728645b
+Filename: ./debs/com.michael.dimentio_0.8.4_iphoneos-arm.deb
+Size: 3472
+MD5sum: bf30fff504f4d5948affa2683f3dd645
+SHA1: 3a1de8b44deedbe0142bfd1d22d3f7dd260f7080
+SHA256: bbebdd4f1525b0bf0016f64410cc3b927d50f894fc02ca0c69f6bb2daa720f8d
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
@@ -373,15 +373,15 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.libdementia
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware(>= 10.0)
-Filename: ./debs/com.michael.libdementia_0.1.0_iphoneos-arm.deb
-Size: 15808
-MD5sum: 2ac14f3f3d64e5f08e5e1e14cb815735
-SHA1: 6bfdc2a55e80d820002b185aa05e605d20905eae
-SHA256: abfe383ec6ee3f0026e51de1b392e5b28d3903ccaf7233121cee652cd2216eec
+Filename: ./debs/com.michael.libdementia_0.1.1_iphoneos-arm.deb
+Size: 15864
+MD5sum: 5ebc90648dde21f49f995f95076144a9
+SHA1: 7c3fd2002bc291a0ca0fb2c4e1ddd08fe8fa545f
+SHA256: f534a4d6328a4ad368a537d2b1097b7961b6f9bcf5491c346df3df850755b4d0
 Section: System
 Description: Library of dimentio
 Author: 0x7ff
