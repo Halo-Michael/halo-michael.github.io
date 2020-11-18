@@ -128,15 +128,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.8.1
+Version: 0.8.2
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware(>= 10.0)
-Filename: ./debs/com.michael.dimentio_0.8.1_iphoneos-arm.deb
-Size: 17308
-MD5sum: 7eb6bcf7e3a840673ecab57d0c36aa6d
-SHA1: aa6540feffb5a9debab4df270b4b0aec9061afb5
-SHA256: 5ee15452fc8ac2d17c0bcf9656efb4ca9fbcf5a445bf6755c3cefe763bc5f253
+Depends: firmware(>= 10.0), com.michael.libdimentio
+Filename: ./debs/com.michael.dimentio_0.8.2_iphoneos-arm.deb
+Size: 3464
+MD5sum: 8f63f654d079042d2621f091c03a7232
+SHA1: f63b861fea627e8a2de895a0b6cc476f9017c49c
+SHA256: 7afb846afd7bd55806a2a5980b1e11556226d3a673dfd9ec129c196c1c405eac
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
@@ -224,15 +224,15 @@ Name: 心雨华文楷体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 
 Package: com.michael.generatorautosetter
-Version: 0.4.3
+Version: 0.5.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), com.michael.dimentio, preferenceloader
-Filename: ./debs/com.michael.generatorautosetter_0.4.3_iphoneos-arm.deb
-Size: 15620
-MD5sum: 39780a47187c72da2ccf5be8f004f9d5
-SHA1: f11cd393205e1cd1e3c5213e7dc680fd96f96fc1
-SHA256: bf7d3189380cf94bb1ab379f3853720760dd005f24019096039099e2392c19e7
+Depends: firmware (>= 12.0), com.michael.libdimentio, preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.5.0_iphoneos-arm.deb
+Size: 16340
+MD5sum: d0971e66d574657888d078567b5844e6
+SHA1: 4be64882b6ae009e5776fab16609a77ef4f96654
+SHA256: 2895164a6e3ab563942887c0911cc0924f1512a2957e68a0336c44ca99cadc78
 Section: Tweaks
 Description: Auto set your generator when jailbreaking!
 Author: halo_michael <yc992147156@me.com>
@@ -371,6 +371,21 @@ Section: System
 Description: Install jtool2 from newosxbook.com.
 Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
+
+Package: com.michael.libdimentio
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0)
+Filename: ./debs/com.michael.libdimentio_0.1.0_iphoneos-arm.deb
+Size: 15832
+MD5sum: d03fced54e67751681174ba3c12c0488
+SHA1: 00ee2a7fc80ce776ad588f1dd9aee9d7554ecdcc
+SHA256: 0d4b9175fac082d742b6f82529ec64bbc6953a5590782b8dee53f09265057b61
+Section: System
+Description: Library of dimentio
+Author: 0x7ff
+Name: libdimentio
 
 Package: com.michael.localssh
 Version: 0.4.0
@@ -710,17 +725,17 @@ Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
 Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.10.3-843-gdd5a459e0
+Version: 0v1.10.3-1218-g1e5e0e20d
 Architecture: iphoneos-arm
 Maintainer: Henrik Rydgård
 Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.3-843-gdd5a459e0_iphoneos-arm.deb
-Size: 15259776
-MD5sum: d7547619c53b84195e2da14be9e7cb9f
-SHA1: 3dc13c9ee6d76ef1d80be46e583142d67ef1151d
-SHA256: b4efc800c9120bf5116a7b8bd9a7f1144cfcee1344e216c8875615500ea82e87
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.3-1218-g1e5e0e20d_iphoneos-arm.deb
+Size: 12723640
+MD5sum: de646bc1f7672a0a9db77537afc67659
+SHA1: 23ea7e803b66caa3019280e222aeaff0b1a29704
+SHA256: ccfa3896f545ea5dd1014330014ec7c39a2a51f2533c57a8b466320f4c1f73f2
 Section: Games
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
