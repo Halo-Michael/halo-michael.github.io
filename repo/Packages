@@ -388,18 +388,18 @@ Author: 0x7ff
 Name: libdementia
 
 Package: com.michael.localssh
-Version: 0.4.0
+Version: 0.4.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 12.0), openssh(>= 8.0)
 Conflicts: com.midnightchips.localhostssh
 Replaces: com.midnightchips.localhostssh
 Provides: com.midnightchips.localhostssh
-Filename: ./debs/com.michael.localssh_0.4.0_iphoneos-arm.deb
-Size: 7196
-MD5sum: ae432269997f2c7c354c99f69bf9306b
-SHA1: a31497040bff28726452cc3ad2da98118fa407c6
-SHA256: b98dc24a21565ff7ed281c6165503bf3030a673b4eb04fee5d779b5cf8fc0ad8
+Filename: ./debs/com.michael.localssh_0.4.1_iphoneos-arm.deb
+Size: 7360
+MD5sum: b28df1f2b17daab8e177d67ed0884c0a
+SHA1: 77b67195b8382246d5f81861cc9c7be0b97ecaae
+SHA256: e50fc5d24e47f1ace1c8a8f5d82b3ee1ead9554c0353ac4958ecb5d1e74cf2b8
 Section: Tweaks
 Description: Enable port 2222 on localhost for OpenSSH.
  Support Checkra1n, Chimera , Odyssey and Unc0ver.
@@ -612,18 +612,18 @@ Name: suer
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.timemachine
-Version: 0.11.10
+Version: 0.11.11
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 10.3), launchctl, preferenceloader
 Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
 Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
-Filename: ./debs/com.michael.timemachine_0.11.10_iphoneos-arm.deb
-Size: 47784
-MD5sum: c932ed8d9139d6eb609f96f41f3eda52
-SHA1: 043b5e94b41625aaee3e304499eeb6f5e406d167
-SHA256: 03e8f7e3283508b416ed101b7df0f83b5c7202e80d7d74416638800d69948f1e
+Filename: ./debs/com.michael.timemachine_0.11.11_iphoneos-arm.deb
+Size: 47268
+MD5sum: 6b60293b14461c2db25da582e85ecd19
+SHA1: 196aa115f70fece3acd56b30f2467bd40101960a
+SHA256: 251c89662672962be3b4cf8e6757b370f60fedaec071366f6321f8e1c2833546
 Section: Tweaks
 Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
  TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
