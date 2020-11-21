@@ -46,39 +46,39 @@ Name: APFS Deletefs
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.appleilluminator
-Version: 0.6.7
+Version: 0.7.0
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 11.0)
 Conflicts: com.michael.appleturboboost
-Filename: ./debs/com.michael.appleilluminator_0.6.7_iphoneos-arm.deb
-Size: 8536
-MD5sum: f2cbb3e3d5d836f0147d517289d28ed6
-SHA1: abcc2ed594c6f9bf067443a569ef2e443cd96bdb
-SHA256: 10f751a2a1997192ca7666d26f697cf3f3f2ff57a43dc8d00a51652a3b5bf48b
+Filename: ./debs/com.michael.appleilluminator_0.7.0_iphoneos-arm.deb
+Size: 8468
+MD5sum: b2154b380f8bdf6d929f10f1bb37a9e0
+SHA1: 66c49f51ba35eceff4fefaeaad8309476a1f5d0a
+SHA256: 925567d036247b3b3f98865533a850b8cd5c5aba2a8fc3f9507fcc38ba0b92dc
 Section: System
 Description: Illuminate your Apple!
  Illuminate your Apple!
  Relieve Apple’s overheating Reduces brightness limit.
- Support iOS11~13.
+ Support iOS11~14.
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Illuminator
 
 Package: com.michael.appleturboboost
-Version: 0.6.7
+Version: 0.7.0
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debs/com.michael.appleturboboost_0.6.7_iphoneos-arm.deb
-Size: 11088
-MD5sum: 7c33316c5558644215c15800feb15abc
-SHA1: 94449fdadbf568b5b7a66fb36196a348ccd81daf
-SHA256: c30d168ee5a9befbec961e1e2ff5d513078340ac12ea7deb5ee236250e24fdf9
+Filename: ./debs/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Size: 9876
+MD5sum: 3b3fb229c9efe153cdf6288963efc66a
+SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
+SHA256: c593c79ecbd596793230cbb9de3dd448118d37a1f029f1904d455ffe28ee9992
 Section: System
 Description: Turbo Boost Your Apple!
  Turbo Boost Your Apple!
- Support iOS12~13.
+ Support iOS12~14.
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
