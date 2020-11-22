@@ -511,20 +511,20 @@ Name: Restore Fonts
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.revealloader
-Version: 0.1.0
+Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.michael.revealloader_0.1.0_iphoneos-arm.deb
-Size: 10780
-MD5sum: 9d8e1b900aa307ab622c101c01b8afd5
-SHA1: 4bfa188f2f6479c1fe230a80e25fc295211d23d5
-SHA256: 3bbbbfd83dc8146b153b855f199f816cdddf0b2b102d85e959fda61cae2887b8
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.michael.revealloader_0.2.0_iphoneos-arm.deb
+Size: 8630
+MD5sum: 6a191de692afde933e38ad1532bc128a
+SHA1: 8219af1152270512d47a3ecae7414cd696d91915
+SHA256: 977bed490abca62a75ff23a4ac0004115554af39cd56a6b282e12d0dc1a83840
 Section: Tweaks
-Description: Command-Line-Tool to load reveal into processes. Needs copy RevealServer.framework from Reveal to /Library/Frameworks first.
+Description: Tool to load reveal into processes. Needs copy RevealServer.framework from Reveal to /Library/Frameworks first.
 Author: halo_michael <yc992147156@me.com>
-Name: Reveal Loader
-Sponsor: halo_michael <yc992147156@me.com>
+Name: RevealLoader
 
 Package: com.michael.selector
 Version: 0.1.2
