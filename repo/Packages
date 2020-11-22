@@ -511,16 +511,16 @@ Name: Restore Fonts
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.revealloader
-Version: 0.2.1
+Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.michael.revealloader_0.2.1_iphoneos-arm.deb
-Size: 5730
-MD5sum: 3c0f902103eb2f3f0aed9227a00111b3
-SHA1: 6d4f98cd7de40b4f93a044e689ae4feff17eda25
-SHA256: 4b7134e9a88c735e3a0c34cc7b83bd07b0d0b9b6cf67ef0903d22a29952310ce
+Filename: ./debs/com.michael.revealloader_0.2.2_iphoneos-arm.deb
+Size: 6360
+MD5sum: 7cf74edab0220ed7b30be51b8ca05553
+SHA1: 4583ef22f2a9bfb1f69fff5e616d54eeb3ec69ac
+SHA256: b588f932cdba1a40a52bec4072868c8ae41b91aa9c88aab4839039380e294c43
 Section: Tweaks
 Description: Tool to load reveal into processes. Needs copy RevealServer.framework from Reveal to /Library/Frameworks first.
 Author: halo_michael <yc992147156@me.com>
