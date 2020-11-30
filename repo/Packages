@@ -725,17 +725,17 @@ Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
 Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.10.3-1268-gb5e230077
+Version: 0v1.10.3-1270-g75bdb5ff1
 Architecture: iphoneos-arm
 Maintainer: Henrik Rydgård
 Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.3-1268-gb5e230077_iphoneos-arm.deb
-Size: 15503664
-MD5sum: c441b1539d9b79889caf78d2482c77c4
-SHA1: 77bb5991e6bd32cf62344ef5b2c3ce51ef9a6a3c
-SHA256: 2c13568764f1e96e264b1a07d163b43513dbb0129821229eae1d9209317076e4
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.10.3-1270-g75bdb5ff1_iphoneos-arm.deb
+Size: 16683540
+MD5sum: 53cf58ee4d6e0cd61269d608998ddc08
+SHA1: 28f076cbf60e5a072495fa0ca892debcdeebf42b
+SHA256: 54d292cbc02208727b4113c0cf7d7fdc7ffdbf5dd81a2a70b7ab9d2fdcac0332
 Section: Games
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
