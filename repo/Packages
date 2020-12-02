@@ -112,6 +112,21 @@ Description: Exploit demo of cuck00.
 Author: siguza <siguza@siguza.net>
 Name: cuck00
 
+Package: com.michael.cve-2020-27950
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Filename: ./debs/com.michael.cve-2020-27950_0.1.0_iphoneos-arm.deb
+Size: 5544
+MD5sum: 3cb6fafd551155583c8d082ceafbed6d
+SHA1: 7055e4c6ca139c4c0edd1d8076409e575086d4c2
+SHA256: 5c1b2e5d2f0a8e81a75dd2705229bcd99b33cc7270ea648da3b78021b9f24f06
+Section: Exploit demo
+Description: Exploit demo of CVE-2020-27950.
+ Exploit demo of CVE-2020-27950. Info leak 1day. Killed in iOS 14.2. More details: https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html
+Author: Synacktiv
+Name: CVE-2020-27950 Demo
+
 Package: com.michael.cycripter
 Version: 0.1.0
 Architecture: iphoneos-arm
