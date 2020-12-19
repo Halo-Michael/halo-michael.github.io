@@ -514,10 +514,10 @@ Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 11.0)
 Filename: ./debs/com.michael.restorefonts_0.3.7_iphoneos-arm.deb
-Size: 7580
-MD5sum: 6ef03278068a84541c46bf951b9246b9
-SHA1: fe56141c2697bf0e608f9d35ddc9457bcddde3bb
-SHA256: 4bfa79701ce6daf524438644ab6e0085e115ddbb58d48a8ee0fed7c173ab3f3e
+Size: 7528
+MD5sum: 28445b7b5ae7156270e016cc78af81fd
+SHA1: 9d661f2b8c9c4feec4feca208632c090fce362c7
+SHA256: 575753a451e5b2c9535e30c632de093bda8dc798fa59846e1ce2baa1eb6f5959
 Section: Tweaks
 Description: Quickily restore orignal fonts from your system snapshot.
 Author: halo_michael <yc992147156@me.com>
