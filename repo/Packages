@@ -29,15 +29,15 @@ Name: Network Magician
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.apfs-deletefs
-Version: 0.2.1
+Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: coreutils, firmware (>= 10.3)
-Filename: ./debs/com.michael.apfs-deletefs_0.2.1_iphoneos-arm.deb
-Size: 4448
-MD5sum: efc7251bd76f6514b7065e7668939b91
-SHA1: deaadd6d7d9e1e9e71aeef9f98ff8fd88b5bc426
-SHA256: b9d74ca4f45ad74db4f12ffb2dc272f37f43fb7400e31543367b1ed435610b1d
+Filename: ./debs/com.michael.apfs-deletefs_0.2.2_iphoneos-arm.deb
+Size: 5332
+MD5sum: 1d35b1acb3529055903040b259acb085
+SHA1: ef7d4b77529968986d075f9897076f0681054f73
+SHA256: 59e4ebfac9e60fc40546212f16a423a5c0155f6cc15b782f29c834b80e23023d
 Section: System
 Description: A command line tool for deleting apfs partition on iOS/iPadOS.
 Author: halo_michael <yc992147156@me.com>
