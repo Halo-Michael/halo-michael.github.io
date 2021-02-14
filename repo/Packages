@@ -174,18 +174,18 @@ Author: halo_michael <yc992147156@me.com>
 Name: FixLdrestart(Unc0ver)
 
 Package: com.michael.fonts.joypixels-emoji-theme
-Version: 6.0.0
+Version: 6.5.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>= 13.2) | com.ps.emojiportpe
-Filename: ./debs/com.michael.fonts.joypixels-emoji-theme_6.0.0_iphoneos-arm.deb
-Size: 54923804
-MD5sum: 820eb66a6b676c6c26abe1a50c13ec5d
-SHA1: b918083dc2495942ba361bb29a92745111f14dbb
-SHA256: 46440f410d3ce089c8a91893c00e739af4a015d499118d66c0faf72f0a052d44
+Filename: ./debs/com.michael.fonts.joypixels-emoji-theme_6.5.0_iphoneos-arm.deb
+Size: 96243726
+MD5sum: 271766825c5558afde05e2db394abe38
+SHA1: de2cd2cbdb4944443797883fa4604d87e2508943
+SHA256: eb875e66774e6c77d43033bd1c77cc79d11e452be7579daf170f23fda72dfae9
 Section: Fonts
 Homepage: https://www.joypixels.com/emoji
-Description: JoyPixels 6.0 Free Fonts, only for personal use or commercial testing purposes.
+Description: JoyPixels 6.5 Free Fonts, only for personal use or commercial testing purposes.
 Author: JoyPixels Inc.
 Name: JoyPixels Emoji Theme
 
