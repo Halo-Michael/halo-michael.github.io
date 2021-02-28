@@ -174,15 +174,15 @@ Author: halo_michael <yc992147156@me.com>
 Name: FixLdrestart(Unc0ver)
 
 Package: com.michael.fonts.joypixels-emoji-theme
-Version: 6.5.0
+Version: 6.5.1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>= 13.2) | com.ps.emojiportpe
-Filename: ./debs/com.michael.fonts.joypixels-emoji-theme_6.5.0_iphoneos-arm.deb
-Size: 96243726
-MD5sum: 271766825c5558afde05e2db394abe38
-SHA1: de2cd2cbdb4944443797883fa4604d87e2508943
-SHA256: eb875e66774e6c77d43033bd1c77cc79d11e452be7579daf170f23fda72dfae9
+Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>> 14.4) | com.ps.emojiportpe
+Filename: ./debs/com.michael.fonts.joypixels-emoji-theme_6.5.1_iphoneos-arm.deb
+Size: 96243842
+MD5sum: a9bf90fe1225335315f3ad048edae627
+SHA1: ec5720c520dbf70bdf3b0450433365152f22a784
+SHA256: 52d255e4e78cabaf256edf573d3e766c756a83cb229c3808df7681dec84a99e2
 Section: Fonts
 Homepage: https://www.joypixels.com/emoji
 Description: JoyPixels 6.5 Free Fonts, only for personal use or commercial testing purposes.
@@ -190,15 +190,15 @@ Author: JoyPixels Inc.
 Name: JoyPixels Emoji Theme
 
 Package: com.michael.fonts.myuppy-theme
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 Depends: firmware (>= 10.0), com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer
-Filename: ./debs/com.michael.fonts.myuppy-theme_1.0.0_iphoneos-arm.deb
-Size: 34774890
-MD5sum: 5945927bbf8deba899c11438b3efdd90
-SHA1: 20671551f6e2abd54fbc2b7ebb17894759fb0def
-SHA256: e6ef4327863af03a4ee29fcd237079739c8dae6b97ddefd20eab6c5abaa640e3
+Filename: ./debs/com.michael.fonts.myuppy-theme_1.1.0_iphoneos-arm.deb
+Size: 40473540
+MD5sum: 385d0788f2a2593ea1287c2dc48c4292
+SHA1: b9ab84a77911743cf9cc0d697b75cab7d9e09710
+SHA256: 0087784150277452e93b2e5e25f9d597beb84ff3841dc538d3c2c7b29b96a1cb
 Section: Fonts
 Description: 心雨Myuppy字体主题包，使用SnowBoard或iThemer插件加载，请关注字体作者公众号“字由心雨”
 Author: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
