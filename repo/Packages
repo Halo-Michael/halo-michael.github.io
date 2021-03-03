@@ -190,15 +190,15 @@ Author: JoyPixels Inc.
 Name: JoyPixels Emoji Theme
 
 Package: com.michael.fonts.myuppy-theme
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 Depends: firmware (>= 10.0), com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer
-Filename: ./debs/com.michael.fonts.myuppy-theme_1.1.1_iphoneos-arm.deb
-Size: 40473662
-MD5sum: 6fcb7bb9308ab7548b12c221f555487c
-SHA1: 3575e8f5ecd14cb3c2453db5c9d91fe96914b643
-SHA256: cffe1fe90ebc0b65f4b897e17847e4822806f5203f40d1d9d6c0ca5a903cb81c
+Filename: ./debs/com.michael.fonts.myuppy-theme_1.1.2_iphoneos-arm.deb
+Size: 21622568
+MD5sum: c91343524367a31a8a0b7cb9faee2027
+SHA1: c4c0a951bf82052b31a1cb642994387217ded29b
+SHA256: 7344a03b1dbba204c703754726da6c312e11859b2e43f5c6ef6f213b8cc9a60f
 Section: Fonts
 Description: 心雨Myuppy字体主题包，使用SnowBoard或iThemer插件加载，请关注字体作者公众号“字由心雨”
 Author: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
