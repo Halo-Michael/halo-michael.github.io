@@ -402,6 +402,22 @@ Description: Library of dimentio
 Author: 0x7ff
 Name: libdementia
 
+Package: com.michael.libdementia
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0)
+Recommends: firmware(<< 14.0) | libkrw
+Filename: ./debs/com.michael.libdementia_0.2.0_iphoneos-arm.deb
+Size: 16404
+MD5sum: a52dc80a248276d4ba45a3b5827684f4
+SHA1: 2cc2b4ef6420a6da4b228679957401def8c2b288
+SHA256: fdaaff32c41e7ac338a9085e948f3f4faed6b054712ccd6235f5bceca04114bf
+Section: System
+Description: Library of dimentio
+Author: 0x7ff
+Name: libdementia
+
 Package: com.michael.localssh
 Version: 0.4.1
 Architecture: iphoneos-arm
