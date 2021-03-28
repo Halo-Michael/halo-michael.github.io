@@ -475,15 +475,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: QQUnlimitedFlashPhotos
 
 Package: com.michael.resolutionautosetter
-Version: 0.4.5
+Version: 0.5.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: com.michael.resolutionsetter (>= 0.4.2), firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.michael.resolutionautosetter_0.4.5_iphoneos-arm.deb
-Size: 6232
-MD5sum: 6827d83a7590624b27fb8b34149e16e6
-SHA1: 1bf6a8f41555fc80ee57127ae281ba43d1f463af
-SHA256: 4237138d24f8ea0ccbac88fe05d6d8038542f224c5b464830233773fc462ac93
+Depends: com.michael.resolutionsetter (>= 0.8.0), firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.michael.resolutionautosetter_0.5.0_iphoneos-arm.deb
+Size: 6068
+MD5sum: a3c569463c08f3b5d2704ce136fb8dac
+SHA1: 8d0309e67c24a36b7823d51a4b47f306dd1dba2f
+SHA256: f4613579d7c2c432f94006afa931c48966d1850505ec8573e32305807fdd9e13
 Section: Tweaks
 Description: Auto set your resolution when jailbreaking!
  Auto set your resolution when jailbreaking!
@@ -493,15 +493,15 @@ Name: Resolution Auto Setter
 Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.resolutionsetter
-Version: 0.7.3
+Version: 0.8.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0), preferenceloader
-Filename: ./debs/com.michael.resolutionsetter_0.7.3_iphoneos-arm.deb
-Size: 16608
-MD5sum: f3669e5c365cc9dc01710e9080a8f713
-SHA1: e4f6422a9f1898ff59d1bec2cac86e449229fe3a
-SHA256: 55f840c4f39b37fd0d8bf5dcde466fe40a934363ab3727203108b5a61536a928
+Filename: ./debs/com.michael.resolutionsetter_0.8.0_iphoneos-arm.deb
+Size: 15620
+MD5sum: f26a974da5785fa2ba724c0500ebbf56
+SHA1: ee3a302e115246d9dae9fc8578a38321e0949a6e
+SHA256: c284514b0b6cbaa7b893d845ba3a1ec137ae9be85f3960f56cefd7f81cb4f37e
 Section: Tweaks
 Description: Change your device resolution on Settings or via Terminal!
 Author: halo_michael <yc992147156@me.com>
