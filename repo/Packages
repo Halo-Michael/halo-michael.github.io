@@ -143,15 +143,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.8.8
+Version: 0.8.9
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware(>= 10.0), com.michael.libdementia(>= 0.2.4)
-Filename: ./debs/com.michael.dimentio_0.8.8_iphoneos-arm.deb
-Size: 3616
-MD5sum: 48fcdf37c821af97b5cb58ad1cbbdf08
-SHA1: f876ef23d705f9c1fed0ac90e36bf2c03820dd15
-SHA256: 960b33f753949dde227e98e85a39352640a3763d672a24f47ed7cd9c7da6a1bf
+Depends: firmware(>= 10.0), com.michael.libdementia(>= 0.2.5)
+Filename: ./debs/com.michael.dimentio_0.8.9_iphoneos-arm.deb
+Size: 3012
+MD5sum: f2e11da7805945cd0bc084e72d23d5ad
+SHA1: 9e3bd38269c60b7c724af06d57547f43b5ee8d79
+SHA256: 619a2852214231a41e28b33bc17365cc6ecee2a49271902eef743f9903725d14
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
@@ -239,15 +239,15 @@ Name: 心雨华文楷体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 
 Package: com.michael.generatorautosetter
-Version: 0.5.6
+Version: 0.5.7
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.3), preferenceloader
-Filename: ./debs/com.michael.generatorautosetter_0.5.6_iphoneos-arm.deb
-Size: 13908
-MD5sum: 38cc1ba13d02ee94203cf34a99c39978
-SHA1: b39fc885193eca8f31ab6320fe830887d17bcbec
-SHA256: 4cbc3631449e067ad80da574ed2301052af610fc21cb5de4c3e37322f100a721
+Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.5), preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.5.7_iphoneos-arm.deb
+Size: 11896
+MD5sum: 78c1ffea4846bd99a9dd74a0167c2248
+SHA1: 93f9ca1780aa3800d5418ce162f5bd9fdcb587d6
+SHA256: 83ebd27c8c05f2bbe88eebf5fa643872248e3a0ff3b2949339c6ca00f037e45c
 Section: Tweaks
 Description: Auto set your generator when jailbreaking!
 Author: halo_michael <yc992147156@me.com>
@@ -388,16 +388,15 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.libdementia
-Version: 0.2.4
+Version: 0.2.5
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware(>= 10.0)
-Recommends: firmware(<< 14.0) | libkrw
-Filename: ./debs/com.michael.libdementia_0.2.4_iphoneos-arm.deb
-Size: 17052
-MD5sum: 9d13970b1ca3204911b082c5cd95a424
-SHA1: 5b2f68ffdad919d51d555fbbd0a1aefde551301d
-SHA256: 548ffdf2b30539768d390e74e52fd5000096664bea0d62e9b70df0e90009ec18
+Depends: firmware(>= 10.0), firmware(<< 14.0) | libkrw | org.coolstar.libkernrw
+Filename: ./debs/com.michael.libdementia_0.2.5_iphoneos-arm.deb
+Size: 13600
+MD5sum: bf7d5c4c4c2904e8ec8c41946cd23447
+SHA1: 7889cad88f598ac6ec6fd8edd37bb1c9c9615bb1
+SHA256: 0ef475e81ee487e84c5476f95fc5420f53462d7e2a55f8e6d28712e60b0d2d4b
 Section: System
 Description: Library of dimentio
 Author: 0x7ff
