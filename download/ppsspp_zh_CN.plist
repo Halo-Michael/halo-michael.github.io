@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://halo-michael.github.io/ipas/PPSSPP_0v1.11.2-368-g233b0a87c.ipa</string>
+					<string>https://halo-michael.github.io/ipas/PPSSPP_0v1.11.2-487-gf52bef701.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PPSSPP_0v1.11.2-368-g233b0a87c(需要 AppSync)</string>
+				<string>PPSSPP_0v1.11.2-487-gf52bef701(需要 AppSync)</string>
 			</dict>
 		</dict>
 	</array>
