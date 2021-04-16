@@ -457,6 +457,21 @@ Author: halo_michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/networkfixer
 Name: networkfixer
 
+Package: com.michael.pacman4console
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: ncurses
+Filename: ./debs/com.michael.pacman4console_1.3-1_iphoneos-arm.deb
+Size: 11580
+MD5sum: 9a9941110ad26c36cfd85cfebd42095d
+SHA1: b93287fb1ca559e4d35fe38a9d16ae9c04beb5ce
+SHA256: 560cfaab079a4a5b9800ba50302686bcb899da285f6ba967c3c14bacf5b9aa14
+Section: Games
+Description: Pacman for console
+Author: Mike Billars
+Name: Pacman for console
+
 Package: com.michael.qqunlimitedflashphotos
 Version: 0.1.0-1
 Architecture: iphoneos-arm
