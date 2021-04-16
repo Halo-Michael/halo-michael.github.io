@@ -610,15 +610,15 @@ Author: Halo_Michael <yc992147156@me.com>
 Name: Unc0ver Support Package
 
 Package: com.michael.suer
-Version: 0.4.3
+Version: 0.5.0
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0)
-Filename: ./debs/com.michael.suer_0.4.3_iphoneos-arm.deb
-Size: 6732
-MD5sum: 383d777cef672901f2b446b71ab38b92
-SHA1: 24eb6926b70b8e0ab6ca4efd0ac7b62ff96e48db
-SHA256: cbb9922b1f0c856708da1ba0c27d090c2e91bb6da98dbad8aa89405e9cabb3bf
+Filename: ./debs/com.michael.suer_0.5.0_iphoneos-arm.deb
+Size: 6656
+MD5sum: 6e3e0a141b7fce5270da94a145092155
+SHA1: d126aef6870ff30a3e3c52731a43ee8011729fe7
+SHA256: c0dedd8618f17a0ca199c23f0f285d9f46a465b4e68ae5e2ec0f733aac842199
 Section: Tweaks
 Description: Temporarily assume root privileges but need not password.
 Author: halo_michael <yc992147156@me.com>
