@@ -4,6 +4,8 @@ for file in `ls update`
 do
 	if [[ ${file} == PPSSPP*ipa ]];then
 		mv update/${file} ../ipas
+		sed -i "s/\.\.\/ipas\/PPSSPP_0v[0-9]\.[0-9]\{2\}\.[0-9]-[0-9]\{3\}-[0-9a-z]\{10\}\.ipa/\.\.\/ipas\/${file}/g" ../en_US/index.html
+		sed -i "s/\.\.\/ipas\/PPSSPP_0v[0-9]\.[0-9]\{2\}\.[0-9]-[0-9]\{3\}-[0-9a-z]\{10\}\.ipa/\.\.\/ipas\/${file}/g" ../zh_CN/index.html
 		plutil -replace items.0.assets.0.url -string "https://halo-michael.github.io/ipas/${file}" ../download/ppsspp_en_US.plist
 		plutil -replace items.0.metadata.title -string "$(echo ${file} | sed -e 's/.ipa//g')(Need AppSync)" ../download/ppsspp_en_US.plist
 		plutil -replace items.0.assets.0.url -string "https://halo-michael.github.io/ipas/${file}" ../download/ppsspp_zh_CN.plist
