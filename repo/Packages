@@ -630,10 +630,10 @@ Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.michael.suer_0.6.2_iphoneos-arm.deb
-Size: 8336
-MD5sum: 919ed5698d1aa11fc7da2d8c45bd3aab
-SHA1: d158e15feb605e5013c20e30a483af7c13c57017
-SHA256: 4db18be96559ca5dd3fbab16fe7811dfb8c5942cce88c18be3119cd02fc925ec
+Size: 8348
+MD5sum: d9ace44771fb2139c9f70f92ebf1c7a3
+SHA1: cb5c24b02d43b943f3f801635fedb841caec95d5
+SHA256: ba8df0f4e8d04beb6b2ff66275e9488af9e660ddffbca3faef3d5acbd3fe6ae1
 Section: Tweaks
 Description: Temporarily assume root privileges but need not password.
 Author: halo_michael <yc992147156@me.com>
