@@ -1,3 +1,17 @@
+Package: clockywock
+Version: 0.3.1a-1
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./debs/clockywock_0.3.1a-1_iphoneos-arm.deb
+Size: 9960
+MD5sum: da70b0c97cf59d55a10f27ab35588656
+SHA1: 7c6851b52854bed6abb6621ce178703304582314
+SHA256: 449fd62589e605751964a53101021f89091e65a49d140e72786e03b69704bf8b
+Section: Utilities
+Description: Clockywock is a cool ncurses ANALOG clock.
+
 Package: com.app.test.Test-appstore-admin
 Version: 0.1-1
 Architecture: iphoneos-arm
