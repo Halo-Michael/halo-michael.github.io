@@ -18,6 +18,7 @@ done
 
 rm -rf Packages Packages.bz2 Packages.xz Packages.lzma
 dpkg-scanpackages -m ./debs /dev/null >Packages
+sed -i 's/\.\/debs\/com\.michael\.fonts\.apple-emoji-theme/https:\/\/media\.githubusercontent\.com\/media\/Halo-Michael\/halo-michael.github.io\/master\/repo\/debs\/com\.michael\.fonts\.apple-emoji-theme/g' Packages
 bzip2 -9fkv Packages > Packages.bz2
 xz -9fkev Packages > Packages.xz
 xz -9fkev --format=lzma Packages > Packages.lzma

@@ -178,7 +178,7 @@ Version: 14.5
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>> 14.4) | com.ps.emojiportpe
-Filename: ./debs/com.michael.fonts.apple-emoji-theme_14.5_iphoneos-arm.deb
+Filename: https://media.githubusercontent.com/media/Halo-Michael/halo-michael.github.io/master/repo/debs/com.michael.fonts.apple-emoji-theme_14.5_iphoneos-arm.deb
 Size: 131927256
 MD5sum: 135492c27bea08e520e462143c1432dd
 SHA1: 18e5538637bd5fac78e5b22fcc5fd8a65e0b0114
