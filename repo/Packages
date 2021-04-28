@@ -12,20 +12,6 @@ SHA256: 449fd62589e605751964a53101021f89091e65a49d140e72786e03b69704bf8b
 Section: Utilities
 Description: Clockywock is a cool ncurses ANALOG clock.
 
-Package: com.app.test.Test-appstore-admin
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.app.test.Test-appstore-admin_0.1-1_iphoneos-arm.deb
-Size: 12398
-MD5sum: b5515c078f24706c3c838c2953d6c27e
-SHA1: 8b57c1aea00f9e17db1ee246fed68d2f38b38d0b
-SHA256: fc93349ff42ba286619ff27d56caee867bb183df12386dec421672b8ed0b667c
-Section: System
-Priority: optional
-Author: lzh
-Name: Test_appstore_admin
-
 Package: com.michael.NetworkMagician
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -187,6 +173,22 @@ Description: Fix ldrestart on unc0ver with sandbox apps
 Author: halo_michael <yc992147156@me.com>
 Name: FixLdrestart(Unc0ver)
 
+Package: com.michael.fonts.apple-emoji-theme
+Version: 14.5
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>> 14.4) | com.ps.emojiportpe
+Filename: ./debs/com.michael.fonts.apple-emoji-theme_14.5_iphoneos-arm.deb
+Size: 131927256
+MD5sum: 135492c27bea08e520e462143c1432dd
+SHA1: 18e5538637bd5fac78e5b22fcc5fd8a65e0b0114
+SHA256: c5b017f508bbe52335fd1daa7a3d4f0b6ece4b81d07115bf5f2c46d3ffd95fc9
+Section: Fonts
+Description: The newest Apple emoji fonts. depends on EmojiPort and SnowBoard/iThemer.
+Author: Apple.Inc
+Name: Apple Emoji Theme
+Sponsor: halo_michael <yc992147156@me.com>
+
 Package: com.michael.fonts.joypixels-emoji-theme
 Version: 6.5.1
 Architecture: iphoneos-arm
@@ -218,22 +220,6 @@ Description: 心雨Myuppy字体主题包，使用SnowBoard或iThemer插件加载
 Author: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 Name: 心雨Myuppy字体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
-
-Package: com.michael.fontsemoji-theme
-Version: 13.2-final
-Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 10.0), com.ps.emojiportpe, com.spark.snowboard, com.spark.snowboard.fonts | net.dodtweaks.ithemer
-Filename: ./debs/com.michael.fontsemoji-theme_13.2-final_iphoneos-arm.deb
-Size: 57057120
-MD5sum: 3064746059a0ab622880770c1702b6ce
-SHA1: fa77295ef97629ba4fad3bb5e079796a2421bc38
-SHA256: 78b51caa573b3b9233e1b005069c446a2e5ac4f4fd5fb7b0346a98e596814e27
-Section: Fonts
-Description: The newest iOS emoji fonts. depends on EmojiPort and SnowBoard/iThemer.
-Author: Apple.Inc
-Name: Newest iOS Emoji Theme
-Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.fontshwkt-theme
 Version: 1.0.0
