@@ -143,15 +143,15 @@ Author: NitoTV
 Name: Cycripter
 
 Package: com.michael.dimentio
-Version: 0.8.9
+Version: 0.9.0
 Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware(>= 10.0), com.michael.libdementia(>= 0.2.5)
-Filename: ./debs/com.michael.dimentio_0.8.9_iphoneos-arm.deb
-Size: 3012
-MD5sum: f2e11da7805945cd0bc084e72d23d5ad
-SHA1: 9e3bd38269c60b7c724af06d57547f43b5ee8d79
-SHA256: 619a2852214231a41e28b33bc17365cc6ecee2a49271902eef743f9903725d14
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0), com.michael.libdementia(>= 0.2.7)
+Filename: ./debs/com.michael.dimentio_0.9.0_iphoneos-arm.deb
+Size: 2920
+MD5sum: 71bd8ce62d1d86953c0651ba077fd499
+SHA1: cfcf4957c8b84c0ee66671324b5e955bed7547c2
+SHA256: c88a0257226636b740f037d2f3a9a2205bc06698d6afa0ea768a2fcb933256f8
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
@@ -239,21 +239,21 @@ Name: 心雨华文楷体-Theme
 Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
 
 Package: com.michael.generatorautosetter
-Version: 0.5.7
+Version: 0.5.8
 Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.5), preferenceloader
-Filename: ./debs/com.michael.generatorautosetter_0.5.7_iphoneos-arm.deb
-Size: 11896
-MD5sum: 78c1ffea4846bd99a9dd74a0167c2248
-SHA1: 93f9ca1780aa3800d5418ce162f5bd9fdcb587d6
-SHA256: 83ebd27c8c05f2bbe88eebf5fa643872248e3a0ff3b2949339c6ca00f037e45c
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.7), preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.5.8_iphoneos-arm.deb
+Size: 11872
+MD5sum: e73bb427ec4bf418179912a8d66882e7
+SHA1: a85c176fa97f9bcb07ee69f9cae1293c10f689a3
+SHA256: a251c03fdf1c6f571e03ec759abd358b38b9e6fdf61e9b97871b534cb87da4e2
 Section: Tweaks
 Description: Auto set your generator when jailbreaking!
-Author: halo_michael <yc992147156@me.com>
+Author: Halo Michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/generatorautosetter
 Name: Generator Auto Setter
-Sponsor: halo_michael <yc992147156@me.com>
+Sponsor: Halo Michael <yc992147156@me.com>
 
 Package: com.michael.globalizefix
 Version: 0.4.0-1
@@ -388,15 +388,15 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.libdementia
-Version: 0.2.6
+Version: 0.2.7
 Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
+Maintainer: Halo Michael <yc992147156@me.com>
 Depends: firmware(>= 10.0), firmware(<< 14.0) | libkrw | org.coolstar.libkernrw
-Filename: ./debs/com.michael.libdementia_0.2.6_iphoneos-arm.deb
-Size: 13576
-MD5sum: f7887e32778eb93e14c47d5bd1d270a8
-SHA1: 5c85ae9dbe23c4854859051f13a84453fa2f1cae
-SHA256: b45607a4ada1223ef20adc8d2d2c2366a344afb5c760c05716ba90561d217da8
+Filename: ./debs/com.michael.libdementia_0.2.7_iphoneos-arm.deb
+Size: 13284
+MD5sum: b4ab0a17cc47d438fb4ee7e2797d451a
+SHA1: 14ffa6da5f7c84e0c779d04f20576181d46ad908
+SHA256: 28357e53175ba6bc22f7d0afa6a0f10e45e59402bc04119a4db7163dd6c875f7
 Section: System
 Description: Library of dimentio
 Author: 0x7ff
