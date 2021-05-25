@@ -1,1 +1,1 @@
-repo/debs/com.michael.fonts.apple-emoji-theme_14.5_iphoneos-arm.deb filter=lfs diff=lfs merge=lfs -text
+repo/debs/com.michael.fonts.apple-emoji-theme_14.6-1_iphoneos-arm.deb filter=lfs diff=lfs merge=lfs -text

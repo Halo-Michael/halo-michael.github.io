@@ -174,20 +174,20 @@ Author: halo_michael <yc992147156@me.com>
 Name: FixLdrestart(Unc0ver)
 
 Package: com.michael.fonts.apple-emoji-theme
-Version: 14.5
+Version: 14.6-1
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
-Depends: com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>> 14.4) | com.ps.emojiportpe
-Filename: https://media.githubusercontent.com/media/Halo-Michael/halo-michael.github.io/master/repo/debs/com.michael.fonts.apple-emoji-theme_14.5_iphoneos-arm.deb
-Size: 131927256
-MD5sum: 135492c27bea08e520e462143c1432dd
-SHA1: 18e5538637bd5fac78e5b22fcc5fd8a65e0b0114
-SHA256: c5b017f508bbe52335fd1daa7a3d4f0b6ece4b81d07115bf5f2c46d3ffd95fc9
+Depends: com.spark.snowboard | firmware(<< 14.0), com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>> 14.4) | com.ps.emojiportpe
+Filename: ./debs/com.michael.fonts.apple-emoji-theme_14.6-1_iphoneos-arm.deb
+Size: 131846496
+MD5sum: f6efeb93fef62f69557709366aabdddb
+SHA1: dacd7c9457a0a4a021d3f31759adef5bd833975a
+SHA256: edf7eee266133301c63407568d6970cd4b1d4803bba6d3c27f058d05bcabc5b9
 Section: Fonts
 Description: The newest Apple emoji fonts. depends on EmojiPort and SnowBoard/iThemer.
 Author: Apple.Inc
 Name: Apple Emoji Theme
-Sponsor: halo_michael <yc992147156@me.com>
+Sponsor: Halo Michael <yc992147156@me.com>
 
 Package: com.michael.fonts.joypixels-emoji-theme
 Version: 6.5.1
