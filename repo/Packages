@@ -82,6 +82,22 @@ Description: Turbo Boost Your Apple!
 Author: Halo_Michael <yc992147156@me.com>
 Name: Apple Turbo Boost
 
+Package: com.michael.bindfs
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.michael.bindfs_0.1.0_iphoneos-arm.deb
+Size: 3072
+MD5sum: 9c0ca4a575ffb6518dafba51866eb976
+SHA1: 982df1df9cddee6a425ed39d3a4336209fe1f088
+SHA256: ab5b595663a83202a6bac2e434a3cdc197538fc07d372a3946f4ac7b4241f6f4
+Section: System
+Description: Mount folder to another location.
+Author: Halo Michael <yc992147156@me.com>
+Name: bindfs
+Sponsor: Halo Michael <yc992147156@me.com>
+
 Package: com.michael.cmcczeppelin
 Version: 1.1.0
 Architecture: iphoneos-arm
