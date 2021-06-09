@@ -388,15 +388,15 @@ Author: halo_michael <yc992147156@me.com>
 Name: jtool2 Installer
 
 Package: com.michael.libdementia
-Version: 0.2.10
+Version: 0.2.11
 Architecture: iphoneos-arm
 Maintainer: Halo Michael <yc992147156@me.com>
 Depends: firmware(>= 10.0), firmware(<< 14.0) | libkrw | org.coolstar.libkernrw
-Filename: ./debs/com.michael.libdementia_0.2.10_iphoneos-arm.deb
-Size: 13736
-MD5sum: ccc5de8d598d88c2be8889495cc35624
-SHA1: 14f097115f56e51e89c3ca49c829499d7b88e106
-SHA256: d74d9c51f012c7280c08ee4862fc2e9dd02841356c005d7363671e550f8d184b
+Filename: ./debs/com.michael.libdementia_0.2.11_iphoneos-arm.deb
+Size: 13208
+MD5sum: 0cec8a8856c7388702bb591e9b576e86
+SHA1: c55d98394c0735a8911f42a621922d9ddc1497c7
+SHA256: 0085c415406b9f52930e8da761ee6b33c5c4a3c11ac7e6c4babc32ffe3d0327b
 Section: System
 Description: Library of dimentio
 Author: 0x7ff
