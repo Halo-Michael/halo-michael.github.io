@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<script language="javascript">
+			var lang=(navigator.language||navigator.userLanguage).toLowerCase();
+			lang=lang.toLowerCase();
+			var langPages={
+				default:'en_US/',
+				'en-us':'en_US/',
+				'zh-cn':'zh_CN/'
+			}
+			window.location.replace( langPages[lang]||langPages.default );
+		</script>
+	</body>
+</html>

@@ -1,0 +1,44 @@
+Package: com.chpwn.iconsupport
+Version: 1.12.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
+Conflicts: com.muirey03.iconsupportfix
+Replaces: com.muirey03.iconsupportfix
+Provides: com.muirey03.iconsupportfix
+Filename: ./debs/com.chpwn.iconsupport_1.12.1_iphoneos-arm.deb
+Size: 26608
+MD5sum: 50e98aa07692a193d3be51e75c4d4011
+SHA1: 2076419cf4b952ce98751fb88fc9cc48dfd0eb13
+SHA256: 7a8e6fcfff2ba8a8302628ee58633e5a4638e670bc43beb8e18e402c58caa8bc
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Description: Support library for safe icon tweaks.
+Tag: role::developer, purpose::extension
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Dev: ashikase
+Name: IconSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.michael.impactor
+Version: 0.9.43
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: coreutils-bin, firmware (>= 7.1), firmware (<= 10.3.3)
+Conflicts: com.saurik.impactor
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/com.michael.impactor_0.9.43_iphoneos-arm.deb
+Size: 519340
+MD5sum: fb60c88258f06d54d9f568e0249e4432
+SHA1: 890ea597dc65405be0e24e204c834908a51d629b
+SHA256: 3acdcc90c84796410181cbac7642021ec13f0ed205552c222b19af9e58cfdc64
+Section: Utilities
+Priority: optional
+Description: specific utility to unjailbreak most devices
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.impactor/
+Icon: file:///Applications/Eraser.app/Icon-60.png
+Name: Cydia Eraser
+

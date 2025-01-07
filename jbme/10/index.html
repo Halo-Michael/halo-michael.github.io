@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" manifest="manifest.appcache">
+<title>&#8290;</title>
+<meta charset="utf-8">
+<!-- UI Properties -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="css/all.css">
+<!-- iOS App Properties -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-icon" href="img/ios-icon.png">
+<script>
+window.onerror = function(ev)
+{
+    alert('Uncaught error: ' + ev);
+};
+</script>
+<script src="js/all.js"></script>
+<script src="js/pwn.js"></script>
+<body class="crazycolors">
+    <header class="block">
+        <div class="time">10<span class="colon"></span>04</div>
+        <div class="date">Reckoning Day</div>
+    </header>
+    <div id="main">
+        <img id="logo" src="img/amazing.png" alt="logo">
+        <div id="notice"></div>
+    </div>
+    <div id="slider">
+        <div id="well">
+            <div id="thumbtack">
+                <img class="arrow" src="img/arrow.svg" alt="arrow">
+            </div>
+            <div id="hint">
+                <span>slide for spyware</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

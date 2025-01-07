@@ -1,0 +1,778 @@
+Package: clockywock
+Version: 0.3.1a-1
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./debs/clockywock_0.3.1a-1_iphoneos-arm.deb
+Size: 9960
+MD5sum: da70b0c97cf59d55a10f27ab35588656
+SHA1: 7c6851b52854bed6abb6621ce178703304582314
+SHA256: 449fd62589e605751964a53101021f89091e65a49d140e72786e03b69704bf8b
+Section: Utilities
+Description: Clockywock is a cool ncurses ANALOG clock.
+
+Package: com.michael.NetworkMagician
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.bingner.plutil, firmware (>= 10.0), firmware (<= 12.4)
+Filename: ./debs/com.michael.NetworkMagician-0.1.1_iphoneos-arm.deb
+Size: 1490
+MD5sum: 7dad51ec278170ed6725a0c1a6d56523
+SHA1: 66b1644362d50937984d7042531a0514b2bd6ada
+SHA256: 1110f03891b8511a9710c344ae209f3dc429096cb827390d5d239d836a6ce395
+Section: Tweaks
+Description: Customize/restore the display text of the 2G 3G 4G network.
+Author: halo_michael <yc992147156@me.com>
+Name: Network Magician
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.apfs-deletefs
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: coreutils, firmware (>= 10.3)
+Filename: ./debs/com.michael.apfs-deletefs_0.2.2_iphoneos-arm.deb
+Size: 5332
+MD5sum: 1d35b1acb3529055903040b259acb085
+SHA1: ef7d4b77529968986d075f9897076f0681054f73
+SHA256: 59e4ebfac9e60fc40546212f16a423a5c0155f6cc15b782f29c834b80e23023d
+Section: System
+Description: A command line tool for deleting apfs partition on iOS/iPadOS.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/apfs-deletefs
+Name: APFS Deletefs
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.appleilluminator
+Version: 0.7.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 11.0)
+Conflicts: com.michael.appleturboboost
+Filename: ./debs/com.michael.appleilluminator_0.7.0_iphoneos-arm.deb
+Size: 8468
+MD5sum: b2154b380f8bdf6d929f10f1bb37a9e0
+SHA1: 66c49f51ba35eceff4fefaeaad8309476a1f5d0a
+SHA256: 925567d036247b3b3f98865533a850b8cd5c5aba2a8fc3f9507fcc38ba0b92dc
+Section: System
+Description: Illuminate your Apple!
+ Illuminate your Apple!
+ Relieve Apple’s overheating Reduces brightness limit.
+ Support iOS11~14.
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Illuminator
+
+Package: com.michael.appleturboboost
+Version: 0.7.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Size: 9876
+MD5sum: 3b3fb229c9efe153cdf6288963efc66a
+SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
+SHA256: c593c79ecbd596793230cbb9de3dd448118d37a1f029f1904d455ffe28ee9992
+Section: System
+Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
+ Support iOS12~14.
+Author: Halo_Michael <yc992147156@me.com>
+Name: Apple Turbo Boost
+
+Package: com.michael.bindfs
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.michael.bindfs_0.1.4_iphoneos-arm.deb
+Size: 3184
+MD5sum: ce565f481784eb16a400d1495db9c35a
+SHA1: 22379b98a31666cad8be87147c7855955e7d4eea
+SHA256: b57111a9b77a3a44f44d64ad40222386328564f420767d3dbf23c88b0726bda9
+Section: System
+Description: Mount folder to another location.
+Author: Halo Michael <yc992147156@me.com>
+Name: bindfs
+Sponsor: Halo Michael <yc992147156@me.com>
+
+Package: com.michael.cmcczeppelin
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo-Michael <yc992147156@me.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.michael.cmcczeppelin_1.1.0_iphoneos-arm.deb
+Size: 7352
+MD5sum: 610536fc8e6bd7f6c09ac743092d7da2
+SHA1: e993ce706f12e1cc5b373f954297265adbb607ea
+SHA256: 2a4af24ce5a0edd4ca7f141a2546e164bedfa0005ce199b3c5b0d68e7b3f3446
+Section: Addons (Zeppelin)
+Description: Fake CMCC icon for Zeppelin! Requires Zeppelin.
+Author: Halo-Michael <yc992147156@me.com>
+Name: Zeppelin CMCC Icon
+
+Package: com.michael.cuck00
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Filename: ./debs/com.michael.cuck00_0.1.0_iphoneos-arm.deb
+Size: 4016
+MD5sum: b7ec7be85e18dfa7cf544afaa7beaf99
+SHA1: 4519f3487a52a0139b8dacd1e596cc243196b453
+SHA256: 4832a0093a4fdd250b8ead41737931bab199d2b1745865de7910e4003eb16141
+Section: Exploit demo
+Description: Exploit demo of cuck00.
+ Exploit demo of cuck00. XNU/IOKit info leak 1day. Killed in iOS 13.3.1 beta 2. More details: https://siguza.github.io/cuck00/
+Author: siguza <siguza@siguza.net>
+Name: cuck00
+
+Package: com.michael.cve-2020-27950
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Filename: ./debs/com.michael.cve-2020-27950_0.1.0_iphoneos-arm.deb
+Size: 5544
+MD5sum: 3cb6fafd551155583c8d082ceafbed6d
+SHA1: 7055e4c6ca139c4c0edd1d8076409e575086d4c2
+SHA256: 5c1b2e5d2f0a8e81a75dd2705229bcd99b33cc7270ea648da3b78021b9f24f06
+Section: Exploit demo
+Description: Exploit demo of CVE-2020-27950.
+ Exploit demo of CVE-2020-27950. Info leak 1day. Killed in iOS 14.2. More details: https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html
+Author: Synacktiv
+Name: CVE-2020-27950 Demo
+
+Package: com.michael.cycripter
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: mobilesubstrate (>= 0.9.6300), cycript
+Filename: ./debs/com.michael.cycripter_0.1.0_iphoneos-arm.deb
+Size: 47720
+MD5sum: 9b6b0c7ebb2214a24ce4868e10e7863c
+SHA1: 8242881601a00cd4cdc09929a289fa8e9a9db2fc
+SHA256: 0e7f6304299e0c48f6c473c060c0480092205afe2e12bf76cdf66eb171763099
+Section: Development
+Description: Tools to make it easier to get cycript to work in chimera, will eventually try and get it to work in earlier versions, but for now 12+ is all that is supported.
+Author: NitoTV
+Name: Cycripter
+
+Package: com.michael.dimentio
+Version: 0.9.2
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0), com.michael.libdementia(>= 0.2.9)
+Filename: ./debs/com.michael.dimentio_0.9.2_iphoneos-arm.deb
+Size: 2912
+MD5sum: a8cbbd0b63258f1479aa02ad2725d09c
+SHA1: 865447e4de5839c1ba44a79c84fada7d3daf188b
+SHA256: 91b28daaf506118f1d025729ce993bb83f03b93a1602cd82763b5fbeb8c7afd2
+Section: System
+Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Author: 0x7ff
+Depiction: https://halo-michael.github.io/repo/info/dimentio
+Name: dimentio
+
+Package: com.michael.fixldrestart
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: coreutils-bin, uikittools
+Filename: ./debs/com.michael.fixldrestart_0.0.2_iphoneos-arm.deb
+Size: 886
+MD5sum: 87a2731f10f6b81274525465736cf85b
+SHA1: c68987d708cf97cc4391ee98a3f26f6fd4f17950
+SHA256: 7023acba58b8fac8fd393043591228f0cb6490c6ed3996e0c9919b37aca0d41a
+Section: Tweaks
+Description: Fix ldrestart on unc0ver with sandbox apps
+Author: halo_michael <yc992147156@me.com>
+Name: FixLdrestart(Unc0ver)
+
+Package: com.michael.fonts.joypixels-emoji-theme
+Version: 6.6-1
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: com.spark.snowboard | firmware(<< 14.0), com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer, firmware(>= 6.0) | com.ps.emojiportalpha, firmware(<< 6.0) | firmware(>= 8.3) | com.ps.emojiportlegacy, firmware(<< 8.3) | firmware(>= 9.0) | com.ps.emojiportfix, firmware(<< 9.0) | firmware(>= 10.0) | com.ps.emojiportps, firmware(<<10.0) | firmware(>= 12.0) | com.ps.emojiportwt, firmware(<< 12.0) | firmware(>> 14.4) | com.ps.emojiportpe
+Filename: ./debs/com.michael.fonts.joypixels-emoji-theme_6.6-1_iphoneos-arm.deb
+Size: 96381360
+MD5sum: 3828bd58f65ab2af81d79ae160407f50
+SHA1: 1d2d3a427e66af0429da15af5fbe50b43db05770
+SHA256: f1edb68f6ed66e2f30780dd4bec612de7772a38afaa8580d27f66ff4d183a922
+Section: Fonts
+Homepage: https://www.joypixels.com/emoji
+Description: JoyPixels 6.6 Free Fonts, only for personal use or commercial testing purposes.
+Author: JoyPixels Inc.
+Name: JoyPixels Emoji Theme
+
+Package: com.michael.fonts.myuppy-theme
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
+Depends: firmware (>= 10.0), com.spark.snowboard | net.dodtweaks.ithemer, com.spark.snowboard.fonts | net.dodtweaks.ithemer
+Filename: ./debs/com.michael.fonts.myuppy-theme_1.1.2_iphoneos-arm.deb
+Size: 21622568
+MD5sum: c91343524367a31a8a0b7cb9faee2027
+SHA1: c4c0a951bf82052b31a1cb642994387217ded29b
+SHA256: 7344a03b1dbba204c703754726da6c312e11859b2e43f5c6ef6f213b8cc9a60f
+Section: Fonts
+Description: 心雨Myuppy字体主题包，使用SnowBoard或iThemer插件加载，请关注字体作者公众号“字由心雨”
+Author: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
+Name: 心雨Myuppy字体-Theme
+Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
+
+Package: com.michael.fontshwkt-theme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
+Depends: firmware (>= 10.0), com.spark.snowboard, com.spark.snowboard.fonts | net.dodtweaks.ithemer
+Conflicts: com.michael.fontshwkt-ithemer
+Filename: ./debs/com.michael.fontshwkt-theme_1.0.0_iphoneos-arm.deb
+Size: 77870436
+MD5sum: e3089492d7b27cd1a537e1ca3b05bd2a
+SHA1: c0e6b33248216365b82ee31789f08a71e727c638
+SHA256: 042d0c4d01a9c220b4dc41b8adc063dff0369e2b5031231f344a0ea360e911a0
+Section: Fonts
+Description: 心雨华文楷体主题包，使用SnowBoard或iThemer插件加载，请关注字体作者公众号“字由心雨”
+Author: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
+Name: 心雨华文楷体-Theme
+Sponsor: 微信公众号字由心雨、halo_michael <yc992147156@me.com>
+
+Package: com.michael.generatorautosetter
+Version: 0.5.11
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.7), preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.5.11_iphoneos-arm.deb
+Size: 11392
+MD5sum: 2e57b0c5c9d2e116c1404e2182ea30b1
+SHA1: 34df84331d20789fed7c90796b212ce4f198cae7
+SHA256: 9d4894d93e74df1e91baea71dd5303429ba6cdd9cb2dd0bfd34fd7923662a938
+Section: Tweaks
+Description: Auto set your generator when jailbreaking!
+Author: Halo Michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/generatorautosetter
+Name: Generator Auto Setter
+Sponsor: Halo Michael <yc992147156@me.com>
+
+Package: com.michael.globalizefix
+Version: 0.4.0-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 136
+Depends: com.parrotgeek.globalize, com.michael.suer, mobilesubstrate
+Filename: ./debs/com.michael.globalizefix_0.4.0-1_iphoneos-arm.deb
+Size: 4012
+MD5sum: 683092003354843c9f1740279be59b90
+SHA1: 026a930b30a7b987e0bec282e544ade88bb84d03
+SHA256: 9f24e80ef0db66a3ab229efaa27fe2fdb420ecee28537d3c39a9cb2cf2534aea
+Section: Tweaks
+Description: Fixed an issue that reboot may caused Globalize lose its effect.
+Author: Halo_Michael <yc992147156@me.com>
+Name: GlobalizeFix
+
+Package: com.michael.handprint
+Version: 0.6.0-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 168
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.michael.handprint_0.6.0-1_iphoneos-arm.deb
+Size: 7104
+MD5sum: 2d34f662a055986d9c993bebd7428af1
+SHA1: dcc5f094c31c680cb7decbbfe917365eb1ef22f7
+SHA256: ed4825b04ede819b8258e2d13e907a2cfa9078ec66665a7d88bd8a3b6e5a7416
+Section: Tweaks
+Description: Enable native X gesture for your iPhone!
+Author: Halo_Michael <yc992147156@me.com>
+Name: HandPrint
+
+Package: com.michael.httpserver
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: preferenceloader, python3, shell-cmds
+Filename: ./debs/com.michael.httpserver_0.3.1_iphoneos-arm.deb
+Size: 7464
+MD5sum: 8cde23884b168b450cf1b3a709dc9e23
+SHA1: f23a198fc68038e294f25d3e0484521530572304
+SHA256: 4a380a89db2bb2183fd4539e8c165ec05aaf77862b37ee4172f10030577160fd
+Section: Utilities
+Description: Enable local http server on your device, set in Settings app.
+Author: halo_michael <yc992147156@me.com>
+Name: HttpServer
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.infoleak
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Filename: ./debs/com.michael.infoleak_0.1.2_iphoneos-arm.deb
+Size: 4968
+MD5sum: 8927b1ea64abec1decc5109af0bfd885
+SHA1: df62ad17dab8fdee87e42a2a94714ee02a94cfc7
+SHA256: abc5acccbe769b0121c773d3445840bbefad06cf42ca9fa0b7eb8b398dc8cb98
+Section: Exploit demo
+Description: Exploit demo of CVE-2020-9964.
+ Exploit demo of CVE-2020-9964. XNU/IOSurfaceAccelerator info leak 1day. Killed in iOS 14. More details: https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html
+Author: Muirey03
+Name: infoleak
+
+Package: com.michael.iostoolchain
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: clang, ld64, odcctools, make, ldid
+Conflicts: org.coolstar.iostoolchain, llvm-clang
+Replaces: org.coolstar.iostoolchain
+Provides: org.coolstar.iostoolchain
+Filename: ./debs/com.michael.iostoolchain_1.1.0_iphoneos-arm.deb
+Size: 734
+MD5sum: 66ea28ef5183fef8ad5d437240ef0509
+SHA1: 9fc454a70e5e55111f8359cca8a43b151ef865a2
+SHA256: 595a894922f678d1acb966ca53d4a05899d7287ba1dc230013647d98d0ccfa49
+Section: Development
+Priority: optional
+Description: Install Clang, ld64, CC tools, Make, ldid from Bingner/Elucubratus repo.
+Tag: purpose::console
+Author: halo_michael <yc992147156@me.com>
+Dev: halo_michael
+Name: iOS Toolchain
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.ipv6-pathmtu
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: network-cmds, python3, wget
+Filename: ./debs/com.michael.ipv6-pathmtu_0.2.1_iphoneos-arm.deb
+Size: 5340
+MD5sum: db4e2883972d7c4a3c3487ff5780d946
+SHA1: 5c6380de46a5ccee6e41027d1257974b1b8e0e2c
+SHA256: e2af6753c0dbfa23d949426960f0b7379bb805c7558f10439ab19edc1c649f4a
+Section: Exploit demo
+Description: Exploit demo of ipv6_pathmtu (CVE-2020-3842).
+ Exploit demo of ipv6_pathmtu (CVE-2020-3842). Killed in iOS 13.3.1. To reproduce this bug, please run ipv6_pathmtu as root. You can use "ipv6_pathmtu -h" to check more details. More details: https://bugs.chromium.org/p/project-zero/issues/detail?id=1976
+ Network required to install scapy module for python3 (if not already installed).
+Author: nedwill <nedwill@google.com>
+Name: ipv6_pathmtu
+
+Package: com.michael.jtool
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: org.coolstar.cctools|odcctools, firmware(>=11.0), curl, ldid
+Filename: ./debs/com.michael.jtool_1.2.0_iphoneos-arm.deb
+Size: 1076
+MD5sum: 4352cac3e9fbf6bcc22f574cf2ff4789
+SHA1: 0c9a064e852881f40ad67dbbc6ab6b79d60140df
+SHA256: b3409d506063de25f31ba3c77009017c62fadadffa92b943df303bd77afffb79
+Section: System
+Description: Install jtool from newosxbook.com.
+Author: halo_michael <yc992147156@me.com>
+Name: jtool Installer
+
+Package: com.michael.jtool2
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: org.coolstar.cctools|odcctools, firmware(>=11.0), curl, ldid
+Filename: ./debs/com.michael.jtool2_1.2.0_iphoneos-arm.deb
+Size: 1084
+MD5sum: 370e886d2db50a0c12b533d0ac46d439
+SHA1: fb1fd1070ee9bd79750f182fe968e79ce8450ac3
+SHA256: 68aa07587f9a9a9fdd46f4adadcf3de0594fa6828bb07773cea30e678428492e
+Section: System
+Description: Install jtool2 from newosxbook.com.
+Author: halo_michael <yc992147156@me.com>
+Name: jtool2 Installer
+
+Package: com.michael.libdementia
+Version: 0.2.19
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0), firmware(<< 14.0) | libkrw | org.coolstar.libkernrw
+Filename: ./debs/com.michael.libdementia_0.2.19_iphoneos-arm.deb
+Size: 14000
+MD5sum: 4eb54d2c8fe7395b400a4523ab0518c6
+SHA1: 9ae1e2159ae9f9ab518f9dd85123eb6992fdd5da
+SHA256: 011ed5c81d6da8be4f7c92dc480b16af810245f483e33251f98624522597f283
+Section: System
+Description: Library of dimentio
+Author: 0x7ff
+Name: libdementia
+
+Package: com.michael.localssh
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), openssh(>= 8.0)
+Conflicts: com.midnightchips.localhostssh
+Replaces: com.midnightchips.localhostssh
+Provides: com.midnightchips.localhostssh
+Filename: ./debs/com.michael.localssh_0.4.1_iphoneos-arm.deb
+Size: 7360
+MD5sum: b28df1f2b17daab8e177d67ed0884c0a
+SHA1: 77b67195b8382246d5f81861cc9c7be0b97ecaae
+SHA256: e50fc5d24e47f1ace1c8a8f5d82b3ee1ead9554c0353ac4958ecb5d1e74cf2b8
+Section: Tweaks
+Description: Enable port 2222 on localhost for OpenSSH.
+ Support Checkra1n, Chimera , Odyssey and Unc0ver.
+Author: halo_michael <yc992147156@me.com>
+Name: LocalSSH
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.neofetch
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
+Filename: ./debs/com.michael.neofetch_1.2.0_iphoneos-arm.deb
+Size: 1396
+MD5sum: 62617e561473c25f0bb4f5f60ec2c826
+SHA1: caa7883ea360a61a6c5f32d12b12df9e7ca8e30f
+SHA256: e0399d8153e24b99054960172cf760f191ead4405568823b1811ef4122c1fcbf
+Section: System
+Description: Install neofetch from https://github.com/dylanaraps/neofetch.git.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/neofetch
+Name: Neofetch Installer
+
+Package: com.michael.networkfixer
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Installed-Size: 68
+Depends: firmware (>= 10.0)
+Conflicts: com.laoyur.network-fixer, com.rockqj.networkfixer
+Filename: ./debs/com.michael.networkfixer_1.3.0_iphoneos-arm.deb
+Size: 3836
+MD5sum: d0e025d0f3b4a8cdedd9a33210e9381f
+SHA1: 1fb0591dc4284c5d127a6eb889267dc92e26e29b
+SHA256: 694934b5ff3fb9dd048755d57af287abf3f8cbb7e28c0aee1aecc4bb4c481551
+Section: System
+Description: Fix app network error for China models.
+Tag: role::hacker
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/networkfixer
+Name: networkfixer
+
+Package: com.michael.pacman4console
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: ncurses
+Filename: ./debs/com.michael.pacman4console_1.3-1_iphoneos-arm.deb
+Size: 11580
+MD5sum: 9a9941110ad26c36cfd85cfebd42095d
+SHA1: b93287fb1ca559e4d35fe38a9d16ae9c04beb5ce
+SHA256: 560cfaab079a4a5b9800ba50302686bcb899da285f6ba967c3c14bacf5b9aa14
+Section: Games
+Description: Pacman for console
+Author: Mike Billars
+Name: Pacman for console
+
+Package: com.michael.qqunlimitedflashphotos
+Version: 0.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.michael.qqunlimitedflashphotos_0.1.0-1_iphoneos-arm.deb
+Size: 2084
+MD5sum: be5f7d91b4148ff61f3653be41d82ff6
+SHA1: 8f4dd00936f4127a545671860e14831773e64178
+SHA256: babbcafd8a7bd8394d05f3e5466b090d5bf000bc428bd3386e8cddfab8a078ab
+Section: Tweaks
+Description: Remove QQ flash photos restrictions.
+Author: Halo_Michael <yc992147156@me.com>
+Name: QQUnlimitedFlashPhotos
+
+Package: com.michael.resolutionautosetter
+Version: 0.5.0
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.michael.resolutionsetter (>= 0.8.0), firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.michael.resolutionautosetter_0.5.0_iphoneos-arm.deb
+Size: 6068
+MD5sum: a3c569463c08f3b5d2704ce136fb8dac
+SHA1: 8d0309e67c24a36b7823d51a4b47f306dd1dba2f
+SHA256: f4613579d7c2c432f94006afa931c48966d1850505ec8573e32305807fdd9e13
+Section: Tweaks
+Description: Auto set your resolution when jailbreaking!
+ Auto set your resolution when jailbreaking!
+ Use Resolutio Setter once, and Resolution Auto Setter will work when jailbreaking.
+Author: halo_michael <yc992147156@me.com>
+Name: Resolution Auto Setter
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.resolutionsetter
+Version: 0.9.0
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 9.0), preferenceloader
+Filename: ./debs/com.michael.resolutionsetter_0.9.0_iphoneos-arm.deb
+Size: 20056
+MD5sum: 1429b00cc14ff5da52de96cc203367ef
+SHA1: f30789ddd12e2792bb26624274fe7434eebce613
+SHA256: 66907a055027cc7e06f4b1930d029a0900258b8aa042e2228ee15eaee0bdc726
+Section: Tweaks
+Description: Change your device resolution on Settings or via Terminal!
+Author: Halo Michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/resolutionsetter
+Name: Resolution Setter
+Sponsor: Halo Michael <yc992147156@me.com>
+
+Package: com.michael.restorefonts
+Version: 0.3.7
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.michael.restorefonts_0.3.7_iphoneos-arm.deb
+Size: 7528
+MD5sum: 28445b7b5ae7156270e016cc78af81fd
+SHA1: 9d661f2b8c9c4feec4feca208632c090fce362c7
+SHA256: 575753a451e5b2c9535e30c632de093bda8dc798fa59846e1ce2baa1eb6f5959
+Section: Tweaks
+Description: Quickily restore orignal fonts from your system snapshot.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/restorefonts
+Name: Restore Fonts
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.revealloader
+Version: 0.2.7
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.michael.revealloader_0.2.7_iphoneos-arm.deb
+Size: 2389800
+MD5sum: 23b97a5210076d02aa1bb23ac1efa8f6
+SHA1: 2866c6ab8d043165dc90c381c4905ff557f963d1
+SHA256: 451b37189947bc340a8e17cb493185e3b3ddce70e35d518326b668274de724b3
+Section: Tweaks
+Description: Tool to load reveal into processes.
+Author: Halo Michael <yc992147156@me.com>
+Name: RevealLoader
+
+Package: com.michael.selector
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.selector
+Replaces: me.nepeta.selector
+Provides: me.nepeta.selector
+Filename: ./debs/com.michael.selector_0.1.2_iphoneos-arm.deb
+Size: 57370
+MD5sum: 7bcb484916b5fcf446b80d469ee67a0f
+SHA1: 373c7d3c9ebf8c7d2d6b3dc4a06a30088677d309
+SHA256: d6935fdd938fc0e490dfc19347d890b753b68ede879a561301d31a1529b5817e
+Section: Tweaks
+Description: 选择文本以翻译或搜索
+Author: Nepeta
+Name: Selector(简体中文)
+
+Package: com.michael.snake
+Version: 0.1.8
+Architecture: all
+Maintainer: halo_michael <yc992147156@me.com>
+Filename: ./debs/com.michael.snake_0.1.8_all.deb
+Size: 14412
+MD5sum: d2fc3ca502727bc105f97451187ad24a
+SHA1: 1f001529a905fa99751694a4fefc4c8e5a166b41
+SHA256: b5416fb335371ca56dd453f906d0b99097e587344be8f7524c859a53afeff8bb
+Section: Games
+Description: A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
+ A simple terminal based snake game written in c with ncurses. Uses vim style 'hjkl' to move around (or the arrow keys if you please).
+Author: Jason Kruse
+Name: snake
+
+Package: com.michael.snappy
+Version: 1.3.2
+Architecture: all
+Maintainer: halo_michael <yc992147156@me.com>
+Installed-Size: 195
+Depends: firmware (>= 10.3)
+Conflicts: com.bingner.snappy
+Replaces: com.bingner.snappy
+Provides: com.bingner.snappy
+Filename: ./debs/com.michael.snappy_1.3.2_iphoneos-arm.deb
+Size: 16176
+MD5sum: 524a868c51b83d2fc571303041503103
+SHA1: 463bcdc29b45dbd571d075a43fd1883d4b983821
+SHA256: 45ced100e3237011da6c54569edadd0f2ac28fc4f9ef9bd672aea004477661fe
+Section: System
+Description: A Tool for APFS Snapshot Management; removed disable revent restrict on iOS.
+Tag: role::hacker
+Author: Sam Bingner <snappy@bingner.com>
+Name: Snappy
+
+Package: com.michael.substrated
+Version: 0.9.7111
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: dpkg, firmware(>=12.3)
+Filename: ./debs/com.michael.substrated_0.9.7111_iphoneos-arm.deb
+Size: 2534608
+MD5sum: b7dba7f288cd4a7501ac197cd0acdeed
+SHA1: 7e972aae8de716747346c0a1535b3a61c4fb4430
+SHA256: e7ffff97f979c7febe5d9d3439a4896dddf5ae34917873a589c30b8aa49319ee
+Section: System
+Description: Simple gadget that allows switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate.
+Author: Halo_Michael <yc992147156@me.com>
+Name: Unc0ver Support Package
+
+Package: com.michael.suer
+Version: 0.6.5
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.michael.suer_0.6.5_iphoneos-arm.deb
+Size: 8336
+MD5sum: fe61b350c2f252ee20497bc2c2b53d9b
+SHA1: a0af13e276d4ff163dbf7cf2e81d6cce04552e46
+SHA256: 42f59bf6a8335f388b03711aa4b4104905ed35576aa0b8dbd76bd2e238306e87
+Section: Tweaks
+Description: Temporarily assume root privileges but need not password.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/suer
+Name: suer
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.timemachine
+Version: 0.12.0
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 10.3), launchctl, preferenceloader
+Conflicts: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Replaces: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Provides: com.michael.TimeMachineLite, com.yourepo.halo-michael.timemachineonios, com.yourepo.halo-michael.timemachineonioslite
+Filename: ./debs/com.michael.timemachine_0.12.0_iphoneos-arm.deb
+Size: 43652
+MD5sum: 0f773113d2e6f9a862af10a04a4b0a1d
+SHA1: 067f221964acb1a4068ae25acfb0a1a7f18e6560
+SHA256: 124999199ad936aed4e671855c712bfed4c4addd98efb610c183efc95f366183
+Section: Tweaks
+Description: TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
+ TimeMachine on iOS will creat a rootfs snapshot and a datafs snapshot at 2:00AM everyday;and delete the oldest snapshots when you have more than default 3(or other you set) snapshots.
+ You can use "setTimeMachine" on Terminal to select the maximum number of snapshots you want to backup for TimeMachine.
+ Usage:	setTimeMachine [OPTIONS...]
+ 	-f <vol> -n <num>	Set the max number of snapshots that need to be backed up for rootfs/datafs.
+ 	-s			Show current settings.
+ If you want to restore a snapshot on datafs, please use Snapback.
+ You can get Snapback on midnightchips’s repo: https://repo.midnightchips.me
+Author: Halo Michael <yc992147156@me.com>
+Name: TimeMachine on iOS
+Sponsor: Halo Michael <yc992147156@me.com>
+
+Package: com.michael.wechatjailbreakhook
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.michael.wechatjailbreakhook_0.1-3_iphoneos-arm.deb
+Size: 2518
+MD5sum: b350bc6ed517c8dae182f21bdfa80b47
+SHA1: 1650e16b12a5fcef8dcefb42257adf0da6557799
+SHA256: 640bf8e27a31140747254b816e0d4bc39e4a94c50db1c22cd9591f0172138385
+Section: Tweaks
+Description: Disable WeChat Jailbreak Detection.
+Author: Halo_Michael <yc992147156@me.com>
+Name: WeChatJailbreakHook
+
+Package: com.michael.wenetjailbreakhook
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.michael.wenetjailbreakhook_0.1-1_iphoneos-arm.deb
+Size: 2416
+MD5sum: fddfd4e5a93598c5e5c7b20588b39dda
+SHA1: b9cac7bbe2cd1c0084e72e68204578e837ce5019
+SHA256: 5e58432b9553ec99883fefe5d18562840eaeeb06ccaa7d4f3dd98fc02ae6f41a
+Section: Tweaks
+Description: Disable WeNet Jailbreak Detection.
+Author: Halo_Michael <yc992147156@me.com>
+Name: WeNetJailbreakHook
+
+Package: figlet
+Version: 2.2.5
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Filename: ./debs/figlet_2.2.5_iphoneos-arm.deb
+Size: 94676
+MD5sum: 4eba81fe63541ed2845f6dff8efc6745
+SHA1: 20a420de13e8372cff42ba5d24c05ae317b55fd5
+SHA256: a62ac1a31e0ee69f7d2bf424e2872168a0c56737b4da28cd8b08ed6fd63c97f8
+Section: Games
+Description: Display large characters made up of ordinary screen characters.
+ Display large characters made up of ordinary screen characters.
+Author: figlet <info@figlet.org>
+Name: FIGlet
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.18.1-313-gd21de81826
+Architecture: iphoneos-arm
+Maintainer: Henrik Rydgård
+Depends: preferenceloader
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.18.1-313-gd21de81826_iphoneos-arm.deb
+Size: 15789780
+MD5sum: 6d004afef494639cb4f542bbeb85544b
+SHA1: 362e1bb0b2930dce259a2f727d374b391315dc1c
+SHA256: f435efeebb416cbca993b91cc807c57e255718cb5183921782cb8740d56c1e94
+Section: Games
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Name: PPSSPP (Dev-Latest)
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.18.1-549-gcc040ab251
+Architecture: iphoneos-arm
+Maintainer: Henrik Rydgård
+Depends: preferenceloader
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.18.1-549-gcc040ab251_iphoneos-arm.deb
+Size: 15878852
+MD5sum: 010cec3e46fb0110070afce2b8083fc9
+SHA1: acdd9fd23f3d110cce98e49ac80a29941bbd44d3
+SHA256: 6db478a62ea1220560747f59740952404eaa33561953924feb2ac15a99547fe9
+Section: Games
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Name: PPSSPP (Dev-Latest)
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.18.1-686-g1e3e5c483e
+Architecture: iphoneos-arm
+Maintainer: Henrik Rydgård
+Depends: preferenceloader
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.18.1-686-g1e3e5c483e_iphoneos-arm.deb
+Size: 15912332
+MD5sum: aa488af3a51b5e45d8668c4239084e3f
+SHA1: 48b07ad6f54647056f9f056ead0762b602103bb5
+SHA256: 91dc9977414ee68f7a0d2dc887b10d9da6a0ca5ee17864d61b1645b3f7cc0900
+Section: Games
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Name: PPSSPP (Dev-Latest)
+
