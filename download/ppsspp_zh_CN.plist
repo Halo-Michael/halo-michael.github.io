@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://halo-michael.github.io/ipas/PPSSPP_0v1.19.3-1475-gbe0899e2cf.ipa</string>
+					<string>https://halo-michael.github.io/ipas/PPSSPP_0v1.19.3-1651-gdd4a4d34c8.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>org.ppsspp.ppsspp</string>
 				<key>bundle-version</key>
-				<string>1.19.3-1475-gbe0899e2cf</string>
+				<string>1.19.3-1651-gdd4a4d34c8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PPSSPP_0v1.19.3-1475-gbe0899e2cf(需要 AppSync)</string>
+				<string>PPSSPP_0v1.19.3-1651-gdd4a4d34c8(需要 AppSync)</string>
 			</dict>
 		</dict>
 	</array>
