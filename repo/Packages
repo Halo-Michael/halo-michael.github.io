@@ -714,18 +714,18 @@ Author: figlet <info@figlet.org>
 Name: FIGlet
 
 Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.20.2-74-g879b68b9e9
+Version: 0v1.20.3-166-g7628730b85
 Architecture: iphoneos-arm
 Maintainer: Henrik Rydgård
 Depends: preferenceloader
 Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.20.2-74-g879b68b9e9_iphoneos-arm.deb
-Size: 16475932
-MD5sum: ea5e9f36a1afcdf5ccc390d97ef008c2
-SHA1: a5783a01b814832563297647745c4ec0b32543a1
-SHA256: 029e8850030c38962afe732c3d18f1b3a649070f5798e9fac335e74dc154a599
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_0v1.20.3-166-g7628730b85_iphoneos-arm.deb
+Size: 16550472
+MD5sum: 8b6893009e99ea731c94acfb1f16537c
+SHA1: e9938fdb18d358010034f9d5e4a52ecb6f90db50
+SHA256: 779d34480c540c587fbb3d6bcd2d1407320faeb27f006f8469037b95b3b129ac
 Section: Games
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
